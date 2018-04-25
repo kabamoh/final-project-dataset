@@ -1,0 +1,535 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HD01,HD02,SUBHD0301,SUBHD0302,SUBHD0303,SUBHD0401,SUBHD0402
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic area,Geographic area,Population,Housing units,Area in square miles - Total area,Area in square miles - Water area,Area in square miles - Land area,Density per square mile of land area - Population,Density per square mile of land area - Housing units
+0400000US24,24,Maryland,0400000US24,24,Maryland,Maryland,5773552(r42264),2378814(r18611),12405.93,2698.69,9707.24,594.8,245.1
+0400000US24,24,Maryland,1600000US2400125,2400125,"Maryland - PLACE - Aberdeen city, Harford County","Aberdeen city, Harford County",14959,6191,6.80,0.01,6.80,2201.4,911.1
+0400000US24,24,Maryland,1600000US2400175,2400175,"Maryland - PLACE - Aberdeen Proving Ground CDP, Harford County","Aberdeen Proving Ground CDP, Harford County",2093,754,11.91,0.80,11.11,188.5,67.9
+0400000US24,24,Maryland,1600000US2400225,2400225,"Maryland - PLACE - Accident town, Garrett County","Accident town, Garrett County",325,173,0.49,0.00,0.49,662.6,352.7
+0400000US24,24,Maryland,1600000US2400250,2400250,"Maryland - PLACE - Accokeek CDP, Prince George's County","Accokeek CDP, Prince George's County",10573,3816,28.80,1.37,27.43,385.5,139.1
+0400000US24,24,Maryland,1600000US2400350,2400350,"Maryland - PLACE - Adamstown CDP, Frederick County","Adamstown CDP, Frederick County",2372,722,3.29,0.00,3.29,721.3,219.5
+0400000US24,24,Maryland,1600000US2400400,2400400,"Maryland - PLACE - Adelphi CDP, Prince George's County","Adelphi CDP, Prince George's County",15086,5526,2.74,0.00,2.74,5508.2,2017.6
+0400000US24,24,Maryland,1600000US2400712,2400712,"Maryland - PLACE - Algonquin CDP, Dorchester County","Algonquin CDP, Dorchester County",1241,618,2.84,2.09,0.74,1673.3,833.3
+0400000US24,24,Maryland,1600000US2400800,2400800,"Maryland - PLACE - Allen CDP, Wicomico County","Allen CDP, Wicomico County",210,82,0.36,0.01,0.35,596.8,233.0
+0400000US24,24,Maryland,1600000US2401450,2401450,"Maryland - PLACE - Andrews AFB CDP, Prince George's County","Andrews AFB CDP, Prince George's County",2973,1385,6.95,0.04,6.92,429.7,200.2
+0400000US24,24,Maryland,1600000US2401600,2401600,"Maryland - PLACE - Annapolis city, Anne Arundel County","Annapolis city, Anne Arundel County",38394,17845,8.11,0.92,7.18,5344.1,2483.9
+0400000US24,24,Maryland,1600000US2401635,2401635,"Maryland - PLACE - Annapolis Neck CDP, Anne Arundel County","Annapolis Neck CDP, Anne Arundel County",10950,4857,11.40,4.46,6.95,1576.4,699.2
+0400000US24,24,Maryland,1600000US2401750,2401750,"Maryland - PLACE - Antietam CDP, Washington County","Antietam CDP, Washington County",89,47,0.15,0.00,0.15,580.0,306.3
+0400000US24,24,Maryland,1600000US2401925,2401925,"Maryland - PLACE - Aquasco CDP, Prince George's County","Aquasco CDP, Prince George's County",981,424,22.12,2.33,19.79,49.6,21.4
+0400000US24,24,Maryland,1600000US2401975,2401975,"Maryland - PLACE - Arbutus CDP, Baltimore County","Arbutus CDP, Baltimore County",20483(r44981),8563(r21549),6.53,0.00,6.52,3139.9,1312.7
+0400000US24,24,Maryland,1600000US2402025,2402025,"Maryland - PLACE - Arden on the Severn CDP, Anne Arundel County","Arden on the Severn CDP, Anne Arundel County",1953,782,1.64,0.21,1.43,1367.1,547.4
+0400000US24,24,Maryland,1600000US2402275,2402275,"Maryland - PLACE - Arnold CDP, Anne Arundel County","Arnold CDP, Anne Arundel County",23106,8766,13.55,2.73,10.82,2135.9,810.3
+0400000US24,24,Maryland,1600000US2402762,2402762,"Maryland - PLACE - Ashton-Sandy Spring CDP, Montgomery County","Ashton-Sandy Spring CDP, Montgomery County",5628,1936,10.37,0.10,10.27,548.0,188.5
+0400000US24,24,Maryland,1600000US2402825,2402825,"Maryland - PLACE - Aspen Hill CDP, Montgomery County","Aspen Hill CDP, Montgomery County",48759,17339,9.70,0.08,9.62,5070.4,1803.1
+0400000US24,24,Maryland,1600000US2403500,2403500,"Maryland - PLACE - Baden CDP, Prince George's County","Baden CDP, Prince George's County",2128,811,28.52,0.85,27.67,76.9,29.3
+0400000US24,24,Maryland,1600000US2403514,2403514,"Maryland - PLACE - Bagtown CDP, Washington County","Bagtown CDP, Washington County",333,133,0.55,0.00,0.55,610.3,243.7
+0400000US24,24,Maryland,1600000US2403575,2403575,"Maryland - PLACE - Bakersville CDP, Washington County","Bakersville CDP, Washington County",30,13,0.05,0.00,0.05,590.4,255.9
+0400000US24,24,Maryland,1600000US2403800,2403800,"Maryland - PLACE - Ballenger Creek CDP, Frederick County","Ballenger Creek CDP, Frederick County",18274,7372,10.83,0.02,10.82,1689.2,681.4
+0400000US24,24,Maryland,1600000US2404000,2404000,Maryland - PLACE - Baltimore city,Baltimore city,620961(r44982),296685(r21550),92.05,11.11,80.94,7671.5,3665.3
+0400000US24,24,Maryland,1600000US2404050,2404050,"Maryland - PLACE - Baltimore Highlands CDP, Baltimore County","Baltimore Highlands CDP, Baltimore County",7019,2708,1.82,0.09,1.73,4056.5,1565.0
+0400000US24,24,Maryland,1600000US2404250,2404250,"Maryland - PLACE - Barclay town, Queen Anne's County","Barclay town, Queen Anne's County",120,57,0.16,0.00,0.16,769.0,365.3
+0400000US24,24,Maryland,1600000US2404475,2404475,"Maryland - PLACE - Barnesville town, Montgomery County","Barnesville town, Montgomery County",172,71,0.49,0.00,0.49,351.8,145.2
+0400000US24,24,Maryland,1600000US2404525,2404525,"Maryland - PLACE - Barrelville CDP, Allegany County","Barrelville CDP, Allegany County",73,28,0.04,0.00,0.04,1662.2,637.5
+0400000US24,24,Maryland,1600000US2404625,2404625,"Maryland - PLACE - Barton town, Allegany County","Barton town, Allegany County",457,225,0.23,0.00,0.22,2068.5,1018.4
+0400000US24,24,Maryland,1600000US2404650,2404650,"Maryland - PLACE - Bartonsville CDP, Frederick County","Bartonsville CDP, Frederick County",1451,528,2.64,0.03,2.61,555.6,202.2
+0400000US24,24,Maryland,1600000US2405250,2405250,"Maryland - PLACE - Beaver Creek CDP, Washington County","Beaver Creek CDP, Washington County",251,107,0.65,0.00,0.65,385.0,164.1
+0400000US24,24,Maryland,1600000US2405525,2405525,"Maryland - PLACE - Bel Air CDP, Allegany County","Bel Air CDP, Allegany County",1258,568,0.46,0.00,0.46,2763.7,1247.8
+0400000US24,24,Maryland,1600000US2405550,2405550,"Maryland - PLACE - Bel Air town, Harford County","Bel Air town, Harford County",10120,4744,2.94,0.01,2.93,3450.4,1617.4
+0400000US24,24,Maryland,1600000US2405825,2405825,"Maryland - PLACE - Bel Air North CDP, Harford County","Bel Air North CDP, Harford County",30568,10985,16.13,0.08,16.06,1903.5,684.0
+0400000US24,24,Maryland,1600000US2405950,2405950,"Maryland - PLACE - Bel Air South CDP, Harford County","Bel Air South CDP, Harford County",47709,18795,15.74,0.07,15.67,3045.3,1199.7
+0400000US24,24,Maryland,1600000US2406400,2406400,"Maryland - PLACE - Beltsville CDP, Prince George's County","Beltsville CDP, Prince George's County",16772,5921,7.19,0.03,7.16,2342.0,826.8
+0400000US24,24,Maryland,1600000US2406550,2406550,"Maryland - PLACE - Benedict CDP, Charles County","Benedict CDP, Charles County",261,142,0.23,0.00,0.23,1117.8,608.2
+0400000US24,24,Maryland,1600000US2406615,2406615,"Maryland - PLACE - Bensville CDP, Charles County","Bensville CDP, Charles County",11923,4002,16.90,0.00,16.89,705.7,236.9
+0400000US24,24,Maryland,1600000US2406800,2406800,"Maryland - PLACE - Berlin town, Worcester County","Berlin town, Worcester County",4485,1953,3.15,0.00,3.15,1422.2,619.3
+0400000US24,24,Maryland,1600000US2406925,2406925,"Maryland - PLACE - Berwyn Heights town, Prince George's County","Berwyn Heights town, Prince George's County",3123,1051,0.69,0.00,0.69,4535.4,1526.3
+0400000US24,24,Maryland,1600000US2407125,2407125,"Maryland - PLACE - Bethesda CDP, Montgomery County","Bethesda CDP, Montgomery County",60858,27470,13.36,0.08,13.29,4579.7,2067.2
+0400000US24,24,Maryland,1600000US2407200,2407200,"Maryland - PLACE - Betterton town, Kent County","Betterton town, Kent County",345,317,1.00,0.01,0.99,348.5,320.2
+0400000US24,24,Maryland,1600000US2407285,2407285,"Maryland - PLACE - Bier CDP, Allegany County","Bier CDP, Allegany County",173,88,1.46,0.00,1.46,118.7,60.4
+0400000US24,24,Maryland,1600000US2407375,2407375,"Maryland - PLACE - Big Pool CDP, Washington County","Big Pool CDP, Washington County",82,31,0.11,0.00,0.11,768.1,290.4
+0400000US24,24,Maryland,1600000US2407400,2407400,"Maryland - PLACE - Big Spring CDP, Washington County","Big Spring CDP, Washington County",84,40,0.14,0.00,0.14,604.2,287.7
+0400000US24,24,Maryland,1600000US2407625,2407625,"Maryland - PLACE - Bishopville CDP, Worcester County","Bishopville CDP, Worcester County",531,241,2.90,0.03,2.87,185.0,84.0
+0400000US24,24,Maryland,1600000US2407675,2407675,"Maryland - PLACE - Bivalve CDP, Wicomico County","Bivalve CDP, Wicomico County",201,125,1.35,0.04,1.31,153.2,95.3
+0400000US24,24,Maryland,1600000US2407850,2407850,"Maryland - PLACE - Bladensburg town, Prince George's County","Bladensburg town, Prince George's County",9148,3826,1.01,0.01,1.00,9163.0,3832.3
+0400000US24,24,Maryland,1600000US2408050,2408050,"Maryland - PLACE - Bloomington CDP, Garrett County","Bloomington CDP, Garrett County",305,134,0.64,0.02,0.62,491.8,216.1
+0400000US24,24,Maryland,1600000US2408625,2408625,"Maryland - PLACE - Boonsboro town, Washington County","Boonsboro town, Washington County",3336,1327,2.90,0.01,2.90,1150.8,457.8
+0400000US24,24,Maryland,1600000US2408775,2408775,"Maryland - PLACE - Bowie city, Prince George's County","Bowie city, Prince George's County",54727,20687,18.51,0.08,18.43,2970.1,1122.7
+0400000US24,24,Maryland,1600000US2408800,2408800,"Maryland - PLACE - Bowleys Quarters CDP, Baltimore County","Bowleys Quarters CDP, Baltimore County",6755,2909,6.10,2.95,3.15,2147.6,924.9
+0400000US24,24,Maryland,1600000US2408850,2408850,"Maryland - PLACE - Bowling Green CDP, Allegany County","Bowling Green CDP, Allegany County",1077,533,0.96,0.00,0.96,1119.6,554.1
+0400000US24,24,Maryland,1600000US2408862,2408862,"Maryland - PLACE - Bowmans Addition CDP, Allegany County","Bowmans Addition CDP, Allegany County",627,263,0.98,0.00,0.98,638.0,267.6
+0400000US24,24,Maryland,1600000US2409100,2409100,"Maryland - PLACE - Braddock Heights CDP, Frederick County","Braddock Heights CDP, Frederick County",2608,1124,4.70,0.01,4.69,555.8,239.5
+0400000US24,24,Maryland,1600000US2409325,2409325,"Maryland - PLACE - Brandywine CDP, Prince George's County","Brandywine CDP, Prince George's County",6719,2386,21.11,0.10,21.01,319.8,113.5
+0400000US24,24,Maryland,1600000US2409400,2409400,"Maryland - PLACE - Breathedsville CDP, Washington County","Breathedsville CDP, Washington County",254,101,0.37,0.00,0.37,682.6,271.4
+0400000US24,24,Maryland,1600000US2409500,2409500,"Maryland - PLACE - Brentwood town, Prince George's County","Brentwood town, Prince George's County",3046,1046,0.38,0.00,0.38,7946.7,2728.9
+0400000US24,24,Maryland,1600000US2410150,2410150,"Maryland - PLACE - Brock Hall CDP, Prince George's County","Brock Hall CDP, Prince George's County",9552,3363,13.75,0.13,13.61,701.7,247.1
+0400000US24,24,Maryland,1600000US2410225,2410225,"Maryland - PLACE - Brookeville town, Montgomery County","Brookeville town, Montgomery County",134,57,0.12,0.00,0.12,1136.2,483.3
+0400000US24,24,Maryland,1600000US2410475,2410475,"Maryland - PLACE - Brooklyn Park CDP, Anne Arundel County","Brooklyn Park CDP, Anne Arundel County",14373,5548,4.27,0.07,4.20,3422.5,1321.1
+0400000US24,24,Maryland,1600000US2410500,2410500,"Maryland - PLACE - Brookmont CDP, Montgomery County","Brookmont CDP, Montgomery County",3468,1375,1.97,0.68,1.29,2688.0,1065.7
+0400000US24,24,Maryland,1600000US2410575,2410575,"Maryland - PLACE - Brookview town, Dorchester County","Brookview town, Dorchester County",60,31,0.04,0.00,0.04,1384.8,715.5
+0400000US24,24,Maryland,1600000US2410650,2410650,"Maryland - PLACE - Broomes Island CDP, Calvert County","Broomes Island CDP, Calvert County",405,204,0.74,0.01,0.73,557.2,280.6
+0400000US24,24,Maryland,1600000US2410800,2410800,"Maryland - PLACE - Brownsville CDP, Washington County","Brownsville CDP, Washington County",89,42,0.28,0.00,0.28,314.5,148.4
+0400000US24,24,Maryland,1600000US2410900,2410900,"Maryland - PLACE - Brunswick city, Frederick County","Brunswick city, Frederick County",5870,2330,3.70,0.44,3.26,1798.0,713.7
+0400000US24,24,Maryland,1600000US2410925,2410925,"Maryland - PLACE - Bryans Road CDP, Charles County","Bryans Road CDP, Charles County",7244,2694,15.38,0.00,15.38,470.9,175.1
+0400000US24,24,Maryland,1600000US2410950,2410950,"Maryland - PLACE - Bryantown CDP, Charles County","Bryantown CDP, Charles County",655,257,4.15,0.00,4.14,158.1,62.0
+0400000US24,24,Maryland,1600000US2411050,2411050,"Maryland - PLACE - Buckeystown CDP, Frederick County","Buckeystown CDP, Frederick County",1019,554,1.54,0.01,1.53,666.3,362.2
+0400000US24,24,Maryland,1600000US2411400,2411400,"Maryland - PLACE - Burkittsville town, Frederick County","Burkittsville town, Frederick County",151,74,0.46,0.00,0.45,332.6,163.0
+0400000US24,24,Maryland,1600000US2411750,2411750,"Maryland - PLACE - Burtonsville CDP, Montgomery County","Burtonsville CDP, Montgomery County",8323,2791,8.20,0.38,7.82,1063.7,356.7
+0400000US24,24,Maryland,1600000US2411900,2411900,"Maryland - PLACE - Butlertown CDP, Kent County","Butlertown CDP, Kent County",505,213,0.87,0.01,0.86,588.4,248.2
+0400000US24,24,Maryland,1600000US2412075,2412075,"Maryland - PLACE - Cabin John CDP, Montgomery County","Cabin John CDP, Montgomery County",2280,903,1.63,0.43,1.20,1907.3,755.4
+0400000US24,24,Maryland,1600000US2412150,2412150,"Maryland - PLACE - California CDP, St. Mary's County","California CDP, St. Mary's County",11857,4697,14.98,2.21,12.78,928.1,367.7
+0400000US24,24,Maryland,1600000US2412300,2412300,"Maryland - PLACE - Calvert Beach CDP, Calvert County","Calvert Beach CDP, Calvert County",808,323,0.82,0.00,0.82,980.9,392.1
+0400000US24,24,Maryland,1600000US2412350,2412350,Maryland - PLACE - Calverton CDP,Calverton CDP,17724,7358,4.62,0.02,4.60,3853.5,1599.7
+0400000US24,24,Maryland,1550000US2412350031,2412350031,Maryland - PLACE - Calverton CDP - Montgomery County (part),Montgomery County (part),11561,5106,3.21,0.01,3.20,3615.5,1596.8
+0400000US24,24,Maryland,1550000US2412350033,2412350033,Maryland - PLACE - Calverton CDP - Prince George's County (part),Prince George's County (part),6163,2252,1.41,0.01,1.40,4396.1,1606.4
+0400000US24,24,Maryland,1600000US2412400,2412400,"Maryland - PLACE - Cambridge city, Dorchester County","Cambridge city, Dorchester County",12326,6228,12.64,2.30,10.34,1192.0,602.3
+0400000US24,24,Maryland,1600000US2412600,2412600,"Maryland - PLACE - Camp Springs CDP, Prince George's County","Camp Springs CDP, Prince George's County",19096,7294,7.70,0.01,7.69,2483.1,948.5
+0400000US24,24,Maryland,1600000US2412912,2412912,"Maryland - PLACE - Cape St. Claire CDP, Anne Arundel County","Cape St. Claire CDP, Anne Arundel County",8747,3315,2.53,0.52,2.00,4366.6,1654.9
+0400000US24,24,Maryland,1600000US2413000,2413000,"Maryland - PLACE - Capitol Heights town, Prince George's County","Capitol Heights town, Prince George's County",4337,1622,0.80,0.00,0.80,5424.5,2028.7
+0400000US24,24,Maryland,1600000US2413225,2413225,"Maryland - PLACE - Carlos CDP, Allegany County","Carlos CDP, Allegany County",153,68,0.29,0.00,0.29,533.6,237.1
+0400000US24,24,Maryland,1600000US2413325,2413325,"Maryland - PLACE - Carney CDP, Baltimore County","Carney CDP, Baltimore County",29941,13970,6.97,0.00,6.97,4294.4,2003.7
+0400000US24,24,Maryland,1600000US2414125,2414125,"Maryland - PLACE - Catonsville CDP, Baltimore County","Catonsville CDP, Baltimore County",41567(r44983),16464(r21551),14.04,0.08,13.96,2977.2,1179.2
+0400000US24,24,Maryland,1600000US2414225,2414225,"Maryland - PLACE - Cavetown CDP, Washington County","Cavetown CDP, Washington County",1473,601,1.90,0.00,1.90,774.1,315.9
+0400000US24,24,Maryland,1600000US2414300,2414300,"Maryland - PLACE - Cearfoss CDP, Washington County","Cearfoss CDP, Washington County",178,76,0.20,0.00,0.20,885.0,377.9
+0400000US24,24,Maryland,1600000US2414325,2414325,"Maryland - PLACE - Cecilton town, Cecil County","Cecilton town, Cecil County",663,264,0.46,0.00,0.46,1435.5,571.6
+0400000US24,24,Maryland,1600000US2414800,2414800,"Maryland - PLACE - Cedarville CDP, Prince George's County","Cedarville CDP, Prince George's County",717,387,13.40,0.12,13.28,54.0,29.1
+0400000US24,24,Maryland,1600000US2414950,2414950,"Maryland - PLACE - Centreville town, Queen Anne's County","Centreville town, Queen Anne's County",4285,1694,2.46,0.00,2.45,1746.5,690.4
+0400000US24,24,Maryland,1600000US2415075,2415075,"Maryland - PLACE - Chance CDP, Somerset County","Chance CDP, Somerset County",353,262,2.58,0.91,1.67,211.4,156.9
+0400000US24,24,Maryland,1600000US2415400,2415400,"Maryland - PLACE - Charlestown town, Cecil County","Charlestown town, Cecil County",1183,550,1.51,0.32,1.19,992.7,461.5
+0400000US24,24,Maryland,1600000US2415475,2415475,"Maryland - PLACE - Charlotte Hall CDP, St. Mary's County","Charlotte Hall CDP, St. Mary's County",1420,344,5.08,0.01,5.07,280.3,67.9
+0400000US24,24,Maryland,1600000US2415500,2415500,"Maryland - PLACE - Charlton CDP, Washington County","Charlton CDP, Washington County",171,59,0.16,0.00,0.16,1046.1,360.9
+0400000US24,24,Maryland,1600000US2415925,2415925,"Maryland - PLACE - Chesapeake Beach town, Calvert County","Chesapeake Beach town, Calvert County",5753,2354,2.80,0.08,2.71,2121.5,868.1
+0400000US24,24,Maryland,1600000US2415950,2415950,"Maryland - PLACE - Chesapeake City town, Cecil County","Chesapeake City town, Cecil County",673,390,0.69,0.19,0.50,1340.4,776.8
+0400000US24,24,Maryland,1600000US2416050,2416050,"Maryland - PLACE - Chesapeake Ranch Estates CDP, Calvert County","Chesapeake Ranch Estates CDP, Calvert County",10519,3758,4.51,0.19,4.32,2434.9,869.9
+0400000US24,24,Maryland,1600000US2416125,2416125,"Maryland - PLACE - Chester CDP, Queen Anne's County","Chester CDP, Queen Anne's County",4167,1954,6.80,1.71,5.09,818.4,383.7
+0400000US24,24,Maryland,1600000US2416225,2416225,"Maryland - PLACE - Chestertown town, Kent County","Chestertown town, Kent County",5252,2361,2.90,0.31,2.60,2023.6,909.7
+0400000US24,24,Maryland,1600000US2416550,2416550,"Maryland - PLACE - Cheverly town, Prince George's County","Cheverly town, Prince George's County",6173,2395,1.35,0.00,1.35,4560.8,1769.5
+0400000US24,24,Maryland,1600000US2416620,2416620,"Maryland - PLACE - Chevy Chase town, Montgomery County","Chevy Chase town, Montgomery County",2824,1042,0.47,0.00,0.47,6014.7,2219.3
+0400000US24,24,Maryland,1600000US2416625,2416625,"Maryland - PLACE - Chevy Chase CDP, Montgomery County","Chevy Chase CDP, Montgomery County",9545,4058,2.40,0.01,2.39,3986.6,1694.9
+0400000US24,24,Maryland,1600000US2416720,2416720,"Maryland - PLACE - Chevy Chase Section Five village, Montgomery County","Chevy Chase Section Five village, Montgomery County",658,226,0.10,0.00,0.10,6418.6,2204.6
+0400000US24,24,Maryland,1600000US2416730,2416730,"Maryland - PLACE - Chevy Chase Section Three village, Montgomery County","Chevy Chase Section Three village, Montgomery County",760,278,0.12,0.00,0.12,6461.9,2363.7
+0400000US24,24,Maryland,1600000US2416775,2416775,"Maryland - PLACE - Chevy Chase View town, Montgomery County","Chevy Chase View town, Montgomery County",920,311,0.28,0.00,0.28,3336.5,1127.9
+0400000US24,24,Maryland,1600000US2416787,2416787,"Maryland - PLACE - Chevy Chase Village town, Montgomery County","Chevy Chase Village town, Montgomery County",1953,726,0.42,0.00,0.42,4680.2,1739.8
+0400000US24,24,Maryland,1600000US2416800,2416800,"Maryland - PLACE - Chewsville CDP, Washington County","Chewsville CDP, Washington County",238,118,0.84,0.00,0.84,285.0,141.3
+0400000US24,24,Maryland,1600000US2416875,2416875,"Maryland - PLACE - Chillum CDP, Prince George's County","Chillum CDP, Prince George's County",33513,11452,3.45,0.03,3.41,9819.3,3355.4
+0400000US24,24,Maryland,1600000US2417000,2417000,"Maryland - PLACE - Choptank CDP, Caroline County","Choptank CDP, Caroline County",129,75,0.24,0.00,0.24,542.1,315.2
+0400000US24,24,Maryland,1600000US2417050,2417050,"Maryland - PLACE - Church Creek town, Dorchester County","Church Creek town, Dorchester County",125,67,0.34,0.00,0.34,370.4,198.5
+0400000US24,24,Maryland,1600000US2417100,2417100,"Maryland - PLACE - Church Hill town, Queen Anne's County","Church Hill town, Queen Anne's County",745,311,0.71,0.00,0.71,1045.0,436.2
+0400000US24,24,Maryland,1600000US2417350,2417350,"Maryland - PLACE - Clarksburg CDP, Montgomery County","Clarksburg CDP, Montgomery County",13766,4352,8.22,0.01,8.21,1677.3,530.3
+0400000US24,24,Maryland,1600000US2417475,2417475,"Maryland - PLACE - Clarysville CDP, Allegany County","Clarysville CDP, Allegany County",73,34,0.12,0.00,0.12,624.4,290.8
+0400000US24,24,Maryland,1600000US2417600,2417600,"Maryland - PLACE - Clear Spring town, Washington County","Clear Spring town, Washington County",358,189,0.11,0.00,0.11,3186.0,1682.0
+0400000US24,24,Maryland,1600000US2417900,2417900,"Maryland - PLACE - Clinton CDP, Prince George's County","Clinton CDP, Prince George's County",35970,12859,25.07,0.08,25.00,1438.9,514.4
+0400000US24,24,Maryland,1600000US2418150,2418150,"Maryland - PLACE - Cloverly CDP, Montgomery County","Cloverly CDP, Montgomery County",15126,4996,10.09,0.04,10.05,1505.2,497.2
+0400000US24,24,Maryland,1600000US2418200,2418200,"Maryland - PLACE - Cobb Island CDP, Charles County","Cobb Island CDP, Charles County",1166,674,0.92,0.31,0.61,1916.3,1107.7
+0400000US24,24,Maryland,1600000US2418250,2418250,"Maryland - PLACE - Cockeysville CDP, Baltimore County","Cockeysville CDP, Baltimore County",20776,10071,11.53,0.14,11.39,1824.6,884.5
+0400000US24,24,Maryland,1600000US2418475,2418475,"Maryland - PLACE - Colesville CDP, Montgomery County","Colesville CDP, Montgomery County",14647,5023,5.04,0.01,5.03,2911.3,998.4
+0400000US24,24,Maryland,1600000US2418750,2418750,"Maryland - PLACE - College Park city, Prince George's County","College Park city, Prince George's County",30413,8212,5.67,0.04,5.64,5396.0,1457.0
+0400000US24,24,Maryland,1600000US2418850,2418850,"Maryland - PLACE - Colmar Manor town, Prince George's County","Colmar Manor town, Prince George's County",1404,415,0.51,0.05,0.47,2993.8,884.9
+0400000US24,24,Maryland,1600000US2419125,2419125,"Maryland - PLACE - Columbia CDP, Howard County","Columbia CDP, Howard County",99615,41239,32.18,0.26,31.93,3120.1,1291.7
+0400000US24,24,Maryland,1600000US2419825,2419825,"Maryland - PLACE - Coral Hills CDP, Prince George's County","Coral Hills CDP, Prince George's County",9895,4217,1.50,0.00,1.50,6591.0,2808.9
+0400000US24,24,Maryland,1600000US2419900,2419900,"Maryland - PLACE - Cordova CDP, Talbot County","Cordova CDP, Talbot County",562,237,4.87,0.00,4.87,115.4,48.6
+0400000US24,24,Maryland,1600000US2419975,2419975,"Maryland - PLACE - Corriganville CDP, Allegany County","Corriganville CDP, Allegany County",455,204,0.39,0.00,0.39,1152.1,516.5
+0400000US24,24,Maryland,1600000US2420050,2420050,"Maryland - PLACE - Cottage City town, Prince George's County","Cottage City town, Prince George's County",1305,500,0.25,0.00,0.25,5246.0,2010.0
+0400000US24,24,Maryland,1600000US2420500,2420500,"Maryland - PLACE - Crellin CDP, Garrett County","Crellin CDP, Garrett County",264,98,0.70,0.00,0.70,376.1,139.6
+0400000US24,24,Maryland,1600000US2420525,2420525,"Maryland - PLACE - Cresaptown CDP, Allegany County","Cresaptown CDP, Allegany County",4592(r44984),1351,6.14,0.02,6.11,750.9,220.9
+0400000US24,24,Maryland,1600000US2420775,2420775,"Maryland - PLACE - Crisfield city, Somerset County","Crisfield city, Somerset County",2726,1531,3.06,1.44,1.62,1679.7,943.4
+0400000US24,24,Maryland,1600000US2420875,2420875,"Maryland - PLACE - Crofton CDP, Anne Arundel County","Crofton CDP, Anne Arundel County",27348,10525,6.61,0.00,6.61,4135.2,1591.5
+0400000US24,24,Maryland,1600000US2420925,2420925,"Maryland - PLACE - Croom CDP, Prince George's County","Croom CDP, Prince George's County",2631,1028,35.41,1.22,34.19,76.9,30.1
+0400000US24,24,Maryland,1600000US2421075,2421075,"Maryland - PLACE - Crownsville CDP, Anne Arundel County","Crownsville CDP, Anne Arundel County",1757,655,5.08,0.00,5.08,345.7,128.9
+0400000US24,24,Maryland,1600000US2421325,2421325,"Maryland - PLACE - Cumberland city, Allegany County","Cumberland city, Allegany County",20859,10914,10.16,0.07,10.08,2068.7,1082.4
+0400000US24,24,Maryland,1600000US2421475,2421475,"Maryland - PLACE - Damascus CDP, Montgomery County","Damascus CDP, Montgomery County",15257,5172,11.58,0.02,11.56,1320.0,447.5
+0400000US24,24,Maryland,1600000US2421550,2421550,"Maryland - PLACE - Dames Quarter CDP, Somerset County","Dames Quarter CDP, Somerset County",167,124,18.24,6.36,11.88,14.1,10.4
+0400000US24,24,Maryland,1600000US2421675,2421675,"Maryland - PLACE - Danville CDP, Allegany County","Danville CDP, Allegany County",271,130,1.14,0.00,1.14,237.8,114.1
+0400000US24,24,Maryland,1600000US2421750,2421750,"Maryland - PLACE - Dargan CDP, Washington County","Dargan CDP, Washington County",165,82,0.30,0.00,0.30,558.9,277.8
+0400000US24,24,Maryland,1600000US2421800,2421800,"Maryland - PLACE - Darlington CDP, Harford County","Darlington CDP, Harford County",409,193,1.05,0.00,1.05,389.7,183.9
+0400000US24,24,Maryland,1600000US2421825,2421825,"Maryland - PLACE - Darnestown CDP, Montgomery County","Darnestown CDP, Montgomery County",6802,2275,17.70,1.31,16.39,415.0,138.8
+0400000US24,24,Maryland,1600000US2421925,2421925,"Maryland - PLACE - Dawson CDP, Allegany County","Dawson CDP, Allegany County",103,49,0.52,0.00,0.52,198.5,94.4
+0400000US24,24,Maryland,1600000US2422050,2422050,"Maryland - PLACE - Deale CDP, Anne Arundel County","Deale CDP, Anne Arundel County",4945,2171,5.94,0.65,5.29,935.6,410.8
+0400000US24,24,Maryland,1600000US2422100,2422100,"Maryland - PLACE - Deal Island CDP, Somerset County","Deal Island CDP, Somerset County",471,348,5.37,2.34,3.03,155.4,114.8
+0400000US24,24,Maryland,1600000US2422275,2422275,"Maryland - PLACE - Deer Park town, Garrett County","Deer Park town, Garrett County",399,175,1.00,0.00,1.00,399.4,175.2
+0400000US24,24,Maryland,1600000US2422600,2422600,"Maryland - PLACE - Delmar town, Wicomico County","Delmar town, Wicomico County",3003,1382,1.73,0.01,1.72,1746.0,803.5
+0400000US24,24,Maryland,1600000US2422725,2422725,"Maryland - PLACE - Denton town, Caroline County","Denton town, Caroline County",4418,1791,5.50,0.22,5.28,836.8,339.2
+0400000US24,24,Maryland,1600000US2422775,2422775,"Maryland - PLACE - Derwood CDP, Montgomery County","Derwood CDP, Montgomery County",2381,852,0.63,0.00,0.63,3809.1,1363.0
+0400000US24,24,Maryland,1600000US2422825,2422825,"Maryland - PLACE - Detmold CDP, Allegany County","Detmold CDP, Allegany County",71,39,0.16,0.00,0.16,453.8,249.3
+0400000US24,24,Maryland,1600000US2423025,2423025,"Maryland - PLACE - District Heights city, Prince George's County","District Heights city, Prince George's County",5837,2212,0.93,0.00,0.93,6298.5,2386.9
+0400000US24,24,Maryland,1600000US2423500,2423500,"Maryland - PLACE - Downsville CDP, Washington County","Downsville CDP, Washington County",355,145,0.62,0.00,0.62,568.2,232.1
+0400000US24,24,Maryland,1600000US2423700,2423700,"Maryland - PLACE - Drum Point CDP, Calvert County","Drum Point CDP, Calvert County",2731,1203,1.84,0.17,1.66,1640.9,722.8
+0400000US24,24,Maryland,1600000US2423975,2423975,"Maryland - PLACE - Dundalk CDP, Baltimore County","Dundalk CDP, Baltimore County",63597,26144,17.39,4.32,13.07,4866.8,2000.7
+0400000US24,24,Maryland,1600000US2424062,2424062,"Maryland - PLACE - Dunkirk CDP, Calvert County","Dunkirk CDP, Calvert County",2520,871,7.33,0.75,6.59,382.6,132.3
+0400000US24,24,Maryland,1600000US2424200,2424200,"Maryland - PLACE - Eagle Harbor town, Prince George's County","Eagle Harbor town, Prince George's County",63,58,0.12,0.00,0.12,538.6,495.8
+0400000US24,24,Maryland,1600000US2424250,2424250,"Maryland - PLACE - Eakles Mill CDP, Washington County","Eakles Mill CDP, Washington County",27,14,0.08,0.00,0.08,318.0,164.9
+0400000US24,24,Maryland,1600000US2424450,2424450,"Maryland - PLACE - East New Market town, Dorchester County","East New Market town, Dorchester County",400,197,0.40,0.00,0.40,1001.8,493.4
+0400000US24,24,Maryland,1600000US2424475,2424475,"Maryland - PLACE - Easton town, Talbot County","Easton town, Talbot County",15945,7405,10.67,0.11,10.56,1510.0,701.3
+0400000US24,24,Maryland,1600000US2424650,2424650,"Maryland - PLACE - East Riverdale CDP, Prince George's County","East Riverdale CDP, Prince George's County",15509,4604,1.62,0.00,1.62,9582.4,2844.6
+0400000US24,24,Maryland,1600000US2424825,2424825,"Maryland - PLACE - Eckhart Mines CDP, Allegany County","Eckhart Mines CDP, Allegany County",932,442,1.54,0.00,1.54,607.1,287.9
+0400000US24,24,Maryland,1600000US2424850,2424850,"Maryland - PLACE - Eden CDP, Somerset County","Eden CDP, Somerset County",823,369,5.62,0.05,5.57,147.7,66.2
+0400000US24,24,Maryland,1600000US2424925,2424925,"Maryland - PLACE - Edesville CDP, Kent County","Edesville CDP, Kent County",169,92,0.41,0.01,0.40,422.9,230.2
+0400000US24,24,Maryland,1600000US2424950,2424950,"Maryland - PLACE - Edgemere CDP, Baltimore County","Edgemere CDP, Baltimore County",8669,3653,20.57,9.73,10.84,799.9,337.1
+0400000US24,24,Maryland,1600000US2425000,2425000,"Maryland - PLACE - Edgemont CDP, Washington County","Edgemont CDP, Washington County",231,102,0.53,0.00,0.53,435.5,192.3
+0400000US24,24,Maryland,1600000US2425050,2425050,"Maryland - PLACE - Edgewater CDP, Anne Arundel County","Edgewater CDP, Anne Arundel County",9023,3878,3.83,0.84,2.99,3015.7,1296.1
+0400000US24,24,Maryland,1600000US2425150,2425150,"Maryland - PLACE - Edgewood CDP, Harford County","Edgewood CDP, Harford County",25562,9821,17.92,0.14,17.78,1437.4,552.3
+0400000US24,24,Maryland,1600000US2425425,2425425,"Maryland - PLACE - Edmonston town, Prince George's County","Edmonston town, Prince George's County",1445,483,0.40,0.01,0.39,3697.6,1235.9
+0400000US24,24,Maryland,1600000US2425575,2425575,"Maryland - PLACE - Eldersburg CDP, Carroll County","Eldersburg CDP, Carroll County",30531,10844,42.23,2.54,39.69,769.2,273.2
+0400000US24,24,Maryland,1600000US2425600,2425600,"Maryland - PLACE - Eldorado town, Dorchester County","Eldorado town, Dorchester County",59,26,0.08,0.00,0.08,769.7,339.2
+0400000US24,24,Maryland,1600000US2425750,2425750,"Maryland - PLACE - Elkridge CDP, Howard County","Elkridge CDP, Howard County",15593,6066,8.40,0.01,8.39,1859.0,723.2
+0400000US24,24,Maryland,1600000US2425800,2425800,"Maryland - PLACE - Elkton town, Cecil County","Elkton town, Cecil County",15443,5944,8.61,0.26,8.35,1848.9,711.7
+0400000US24,24,Maryland,1600000US2425925,2425925,"Maryland - PLACE - Ellerslie CDP, Allegany County","Ellerslie CDP, Allegany County",572,260,0.38,0.00,0.38,1504.7,683.9
+0400000US24,24,Maryland,1600000US2426000,2426000,"Maryland - PLACE - Ellicott City CDP, Howard County","Ellicott City CDP, Howard County",65834,24672,30.08,0.12,29.96,2197.7,823.6
+0400000US24,24,Maryland,1600000US2426025,2426025,"Maryland - PLACE - Elliott CDP, Dorchester County","Elliott CDP, Dorchester County",52,63,0.35,0.00,0.35,148.2,179.5
+0400000US24,24,Maryland,1600000US2426200,2426200,"Maryland - PLACE - Emmitsburg town, Frederick County","Emmitsburg town, Frederick County",2814,1070,1.52,0.00,1.52,1856.1,705.8
+0400000US24,24,Maryland,1600000US2426550,2426550,"Maryland - PLACE - Ernstville CDP, Washington County","Ernstville CDP, Washington County",56,22,0.15,0.00,0.15,374.8,147.2
+0400000US24,24,Maryland,1600000US2426600,2426600,"Maryland - PLACE - Essex CDP, Baltimore County","Essex CDP, Baltimore County",39262,16635,11.89,2.64,9.26,4240.9,1796.8
+0400000US24,24,Maryland,1600000US2427250,2427250,"Maryland - PLACE - Fairland CDP, Montgomery County","Fairland CDP, Montgomery County",23681,9356,4.94,0.02,4.92,4812.3,1901.3
+0400000US24,24,Maryland,1600000US2427325,2427325,"Maryland - PLACE - Fairlee CDP, Kent County","Fairlee CDP, Kent County",490,235,3.91,0.12,3.80,129.1,61.9
+0400000US24,24,Maryland,1600000US2427375,2427375,"Maryland - PLACE - Fairmount CDP, Somerset County","Fairmount CDP, Somerset County",457,267,17.11,4.86,12.26,37.3,21.8
+0400000US24,24,Maryland,1600000US2427400,2427400,"Maryland - PLACE - Fairmount Heights town, Prince George's County","Fairmount Heights town, Prince George's County",1494,589,0.27,0.00,0.27,5554.8,2189.9
+0400000US24,24,Maryland,1600000US2427425,2427425,"Maryland - PLACE - Fairplay CDP, Washington County","Fairplay CDP, Washington County",580,202,1.20,0.00,1.20,481.6,167.7
+0400000US24,24,Maryland,1600000US2427500,2427500,"Maryland - PLACE - Fairview CDP, Washington County","Fairview CDP, Washington County",76,30,0.21,0.00,0.21,360.7,142.4
+0400000US24,24,Maryland,1600000US2427580,2427580,"Maryland - PLACE - Fairwood CDP, Prince George's County","Fairwood CDP, Prince George's County",5031,1643,3.73,0.00,3.72,1351.4,441.3
+0400000US24,24,Maryland,1600000US2427700,2427700,"Maryland - PLACE - Fallston CDP, Harford County","Fallston CDP, Harford County",8958,3216,14.01,0.03,13.98,640.7,230.0
+0400000US24,24,Maryland,1600000US2427900,2427900,"Maryland - PLACE - Federalsburg town, Caroline County","Federalsburg town, Caroline County",2739,1191,2.02,0.09,1.93,1418.6,616.9
+0400000US24,24,Maryland,1600000US2428075,2428075,"Maryland - PLACE - Ferndale CDP, Anne Arundel County","Ferndale CDP, Anne Arundel County",16746,6625,3.98,0.00,3.98,4212.3,1666.5
+0400000US24,24,Maryland,1600000US2428275,2428275,"Maryland - PLACE - Finzel CDP, Garrett County","Finzel CDP, Garrett County",547,225,3.29,0.00,3.29,166.2,68.4
+0400000US24,24,Maryland,1600000US2428300,2428300,"Maryland - PLACE - Fishing Creek CDP, Dorchester County","Fishing Creek CDP, Dorchester County",163,122,1.37,0.32,1.05,155.1,116.1
+0400000US24,24,Maryland,1600000US2428425,2428425,"Maryland - PLACE - Flintstone CDP, Allegany County","Flintstone CDP, Allegany County",177,80,0.42,0.00,0.42,425.6,192.4
+0400000US24,24,Maryland,1600000US2428640,2428640,"Maryland - PLACE - Forest Glen CDP, Montgomery County","Forest Glen CDP, Montgomery County",6582,2732,1.03,0.00,1.03,6386.4,2650.8
+0400000US24,24,Maryland,1600000US2428725,2428725,"Maryland - PLACE - Forest Heights town, Prince George's County","Forest Heights town, Prince George's County",2447,927,0.48,0.00,0.48,5072.5,1921.6
+0400000US24,24,Maryland,1600000US2429000,2429000,"Maryland - PLACE - Forestville CDP, Prince George's County","Forestville CDP, Prince George's County",12353,4878,3.92,0.00,3.92,3151.2,1244.4
+0400000US24,24,Maryland,1600000US2429400,2429400,"Maryland - PLACE - Fort Meade CDP, Anne Arundel County","Fort Meade CDP, Anne Arundel County",9327,2731,8.11,0.01,8.10,1152.1,337.3
+0400000US24,24,Maryland,1600000US2429450,2429450,"Maryland - PLACE - Fort Ritchie CDP, Washington County","Fort Ritchie CDP, Washington County",314,111,1.01,0.03,0.98,320.3,113.2
+0400000US24,24,Maryland,1600000US2429525,2429525,"Maryland - PLACE - Fort Washington CDP, Prince George's County","Fort Washington CDP, Prince George's County",23717,8681,16.57,2.78,13.79,1719.8,629.5
+0400000US24,24,Maryland,1600000US2429712,2429712,"Maryland - PLACE - Fountainhead-Orchard Hills CDP, Washington County","Fountainhead-Orchard Hills CDP, Washington County",5666,2370,4.41,0.00,4.41,1283.7,536.9
+0400000US24,24,Maryland,1600000US2429790,2429790,"Maryland - PLACE - Four Corners CDP, Montgomery County","Four Corners CDP, Montgomery County",7945,2913,1.47,0.01,1.46,5455.3,2000.2
+0400000US24,24,Maryland,1600000US2430100,2430100,"Maryland - PLACE - Franklin CDP, Allegany County","Franklin CDP, Allegany County",290,100,0.32,0.00,0.32,894.1,308.3
+0400000US24,24,Maryland,1600000US2430325,2430325,"Maryland - PLACE - Frederick city, Frederick County","Frederick city, Frederick County",65239,27559,22.20,0.21,21.99,2966.7,1253.2
+0400000US24,24,Maryland,1600000US2430567,2430567,"Maryland - PLACE - Frenchtown-Rumbly CDP, Somerset County","Frenchtown-Rumbly CDP, Somerset County",100,94,8.39,4.64,3.76,26.6,25.0
+0400000US24,24,Maryland,1600000US2430575,2430575,"Maryland - PLACE - Friendly CDP, Prince George's County","Friendly CDP, Prince George's County",9250,3272,4.88,0.01,4.88,1897.2,671.1
+0400000US24,24,Maryland,1600000US2430650,2430650,"Maryland - PLACE - Friendship CDP, Anne Arundel County","Friendship CDP, Anne Arundel County",447,161,1.79,0.00,1.79,249.2,89.7
+0400000US24,24,Maryland,1600000US2430800,2430800,"Maryland - PLACE - Friendship Heights Village CDP, Montgomery County","Friendship Heights Village CDP, Montgomery County",4698,3265,0.06,0.00,0.06,79555.4,55289.2
+0400000US24,24,Maryland,1600000US2430850,2430850,"Maryland - PLACE - Friendsville town, Garrett County","Friendsville town, Garrett County",491,272,0.91,0.00,0.91,539.4,298.8
+0400000US24,24,Maryland,1600000US2430900,2430900,"Maryland - PLACE - Frostburg city, Allegany County","Frostburg city, Allegany County",9002,3497,3.42,0.00,3.42,2635.7,1023.9
+0400000US24,24,Maryland,1600000US2430950,2430950,"Maryland - PLACE - Fruitland city, Wicomico County","Fruitland city, Wicomico County",4866,2045,3.79,0.01,3.78,1286.2,540.5
+0400000US24,24,Maryland,1600000US2431025,2431025,"Maryland - PLACE - Fulton CDP, Howard County","Fulton CDP, Howard County",2049,751,3.79,0.01,3.79,541.2,198.4
+0400000US24,24,Maryland,1600000US2431100,2431100,"Maryland - PLACE - Funkstown town, Washington County","Funkstown town, Washington County",904,460,0.36,0.00,0.36,2493.5,1268.8
+0400000US24,24,Maryland,1600000US2431175,2431175,"Maryland - PLACE - Gaithersburg city, Montgomery County","Gaithersburg city, Montgomery County",59933,23337,10.34,0.14,10.20,5875.2,2287.7
+0400000US24,24,Maryland,1600000US2431225,2431225,"Maryland - PLACE - Galena town, Kent County","Galena town, Kent County",612,284,0.36,0.00,0.36,1697.1,787.5
+0400000US24,24,Maryland,1600000US2431250,2431250,"Maryland - PLACE - Galestown town, Dorchester County","Galestown town, Dorchester County",138,57,0.26,0.02,0.23,588.1,242.9
+0400000US24,24,Maryland,1600000US2431275,2431275,"Maryland - PLACE - Galesville CDP, Anne Arundel County","Galesville CDP, Anne Arundel County",684,325,1.69,0.39,1.30,527.3,250.5
+0400000US24,24,Maryland,1600000US2431350,2431350,"Maryland - PLACE - Gambrills CDP, Anne Arundel County","Gambrills CDP, Anne Arundel County",2800,1008,7.60,0.00,7.60,368.4,132.6
+0400000US24,24,Maryland,1600000US2431400,2431400,"Maryland - PLACE - Gapland CDP, Washington County","Gapland CDP, Washington County",109,43,0.22,0.00,0.22,487.6,192.4
+0400000US24,24,Maryland,1600000US2431525,2431525,"Maryland - PLACE - Garrett Park town, Montgomery County","Garrett Park town, Montgomery County",992,401,0.26,0.00,0.26,3881.2,1568.9
+0400000US24,24,Maryland,1600000US2431575,2431575,"Maryland - PLACE - Garretts Mill CDP, Washington County","Garretts Mill CDP, Washington County",234,106,0.57,0.00,0.57,410.2,185.8
+0400000US24,24,Maryland,1600000US2431625,2431625,"Maryland - PLACE - Garrison CDP, Baltimore County","Garrison CDP, Baltimore County",8823,4102,3.16,0.00,3.16,2795.6,1299.7
+0400000US24,24,Maryland,1600000US2431875,2431875,"Maryland - PLACE - Georgetown CDP, Kent County","Georgetown CDP, Kent County",143,60,1.48,0.01,1.47,97.3,40.8
+0400000US24,24,Maryland,1600000US2432025,2432025,"Maryland - PLACE - Germantown CDP, Montgomery County","Germantown CDP, Montgomery County",86395,31807,17.11,0.11,17.00,5083.2,1871.4
+0400000US24,24,Maryland,1600000US2432175,2432175,"Maryland - PLACE - Gilmore CDP, Allegany County","Gilmore CDP, Allegany County",127,58,0.10,0.00,0.10,1316.5,601.2
+0400000US24,24,Maryland,1600000US2432250,2432250,"Maryland - PLACE - Girdletree CDP, Worcester County","Girdletree CDP, Worcester County",149,81,0.66,0.00,0.66,224.9,122.3
+0400000US24,24,Maryland,1600000US2432350,2432350,"Maryland - PLACE - Glassmanor CDP, Prince George's County","Glassmanor CDP, Prince George's County",17295,7348,2.35,0.00,2.35,7357.0,3125.7
+0400000US24,24,Maryland,1600000US2432500,2432500,"Maryland - PLACE - Glenarden city, Prince George's County","Glenarden city, Prince George's County",6000,2256,1.22,0.00,1.22,4916.4,1848.6
+0400000US24,24,Maryland,1600000US2432650,2432650,"Maryland - PLACE - Glen Burnie CDP, Anne Arundel County","Glen Burnie CDP, Anne Arundel County",67639,28013,18.03,0.71,17.32,3904.8,1617.2
+0400000US24,24,Maryland,1600000US2432900,2432900,"Maryland - PLACE - Glen Echo town, Montgomery County","Glen Echo town, Montgomery County",255,100,0.10,0.00,0.10,2459.5,964.5
+0400000US24,24,Maryland,1600000US2433250,2433250,"Maryland - PLACE - Glenmont CDP, Montgomery County","Glenmont CDP, Montgomery County",13529,4848,2.82,0.02,2.80,4836.0,1733.0
+0400000US24,24,Maryland,1600000US2433400,2433400,"Maryland - PLACE - Glenn Dale CDP, Prince George's County","Glenn Dale CDP, Prince George's County",13466,4429,7.23,0.11,7.12,1891.2,622.0
+0400000US24,24,Maryland,1600000US2433850,2433850,"Maryland - PLACE - Golden Beach CDP, St. Mary's County","Golden Beach CDP, St. Mary's County",3796,1389,4.65,0.87,3.78,1003.3,367.1
+0400000US24,24,Maryland,1600000US2433950,2433950,"Maryland - PLACE - Goldsboro town, Caroline County","Goldsboro town, Caroline County",246,97,0.75,0.01,0.74,332.4,131.1
+0400000US24,24,Maryland,1600000US2434150,2434150,"Maryland - PLACE - Gorman CDP, Garrett County","Gorman CDP, Garrett County",106,54,1.25,0.00,1.25,84.5,43.1
+0400000US24,24,Maryland,1600000US2434425,2434425,"Maryland - PLACE - Grahamtown CDP, Allegany County","Grahamtown CDP, Allegany County",364,178,0.14,0.00,0.14,2518.2,1231.4
+0400000US24,24,Maryland,1600000US2434525,2434525,"Maryland - PLACE - Grantsville town, Garrett County","Grantsville town, Garrett County",766,397,0.98,0.00,0.98,782.7,405.7
+0400000US24,24,Maryland,1600000US2434550,2434550,"Maryland - PLACE - Grasonville CDP, Queen Anne's County","Grasonville CDP, Queen Anne's County",3425,1399,6.29,0.76,5.52,619.9,253.2
+0400000US24,24,Maryland,1600000US2434775,2434775,"Maryland - PLACE - Greenbelt city, Prince George's County","Greenbelt city, Prince George's County",23068,10433,6.33,0.06,6.28,3674.4,1661.8
+0400000US24,24,Maryland,1600000US2435200,2435200,"Maryland - PLACE - Greensboro town, Caroline County","Greensboro town, Caroline County",1931,798,1.05,0.00,1.05,1837.1,759.2
+0400000US24,24,Maryland,1600000US2435225,2435225,"Maryland - PLACE - Greensburg CDP, Washington County","Greensburg CDP, Washington County",229,96,0.41,0.00,0.41,565.0,236.8
+0400000US24,24,Maryland,1600000US2436075,2436075,"Maryland - PLACE - Hagerstown city, Washington County","Hagerstown city, Washington County",39662,18682,11.80,0.01,11.79,3365.0,1585.0
+0400000US24,24,Maryland,1600000US2436125,2436125,"Maryland - PLACE - Halfway CDP, Washington County","Halfway CDP, Washington County",10701,4725,4.66,0.00,4.66,2297.6,1014.5
+0400000US24,24,Maryland,1600000US2436500,2436500,"Maryland - PLACE - Hampstead town, Carroll County","Hampstead town, Carroll County",6323,2500,3.21,0.02,3.19,1982.8,784.0
+0400000US24,24,Maryland,1600000US2436512,2436512,"Maryland - PLACE - Hampton CDP, Baltimore County","Hampton CDP, Baltimore County",5052,1940,5.72,0.00,5.72,882.6,338.9
+0400000US24,24,Maryland,1600000US2436600,2436600,"Maryland - PLACE - Hancock town, Washington County","Hancock town, Washington County",1545,821,2.75,0.02,2.73,566.2,300.9
+0400000US24,24,Maryland,1600000US2437600,2437600,"Maryland - PLACE - Havre de Grace city, Harford County","Havre de Grace city, Harford County",12952,5875,6.89,1.39,5.50,2355.9,1068.6
+0400000US24,24,Maryland,1600000US2437875,2437875,"Maryland - PLACE - Hebron town, Wicomico County","Hebron town, Wicomico County",1084,457,1.28,0.00,1.28,849.6,358.2
+0400000US24,24,Maryland,1600000US2437925,2437925,"Maryland - PLACE - Henderson town, Caroline County","Henderson town, Caroline County",146,51,0.13,0.00,0.13,1156.1,403.8
+0400000US24,24,Maryland,1600000US2438025,2438025,"Maryland - PLACE - Herald Harbor CDP, Anne Arundel County","Herald Harbor CDP, Anne Arundel County",2603,1154,2.45,0.77,1.68,1546.6,685.7
+0400000US24,24,Maryland,1600000US2438437,2438437,"Maryland - PLACE - Highfield-Cascade CDP, Washington County","Highfield-Cascade CDP, Washington County",1112,499,1.73,0.00,1.73,642.0,288.1
+0400000US24,24,Maryland,1600000US2438475,2438475,"Maryland - PLACE - Highland CDP, Howard County","Highland CDP, Howard County",1034,342,2.42,0.01,2.41,429.7,142.1
+0400000US24,24,Maryland,1600000US2438500,2438500,"Maryland - PLACE - Highland Beach town, Anne Arundel County","Highland Beach town, Anne Arundel County",96,74,0.07,0.01,0.06,1507.0,1161.7
+0400000US24,24,Maryland,1600000US2438850,2438850,Maryland - PLACE - Hillandale CDP,Hillandale CDP,6043,2085,2.06,0.00,2.06,2932.9,1011.9
+0400000US24,24,Maryland,1550000US2438850031,2438850031,Maryland - PLACE - Hillandale CDP - Montgomery County (part),Montgomery County (part),4115,1460,1.37,0.00,1.37,2996.2,1063.0
+0400000US24,24,Maryland,1550000US2438850033,2438850033,Maryland - PLACE - Hillandale CDP - Prince George's County (part),Prince George's County (part),1928,625,0.69,0.00,0.69,2806.4,909.8
+0400000US24,24,Maryland,1600000US2438975,2438975,"Maryland - PLACE - Hillcrest Heights CDP, Prince George's County","Hillcrest Heights CDP, Prince George's County",16469,7462,2.49,0.00,2.49,6621.1,3000.0
+0400000US24,24,Maryland,1600000US2439175,2439175,"Maryland - PLACE - Hillsboro town, Caroline County","Hillsboro town, Caroline County",161,75,0.15,0.00,0.15,1072.8,499.8
+0400000US24,24,Maryland,1600000US2440700,2440700,"Maryland - PLACE - Hughesville CDP, Charles County","Hughesville CDP, Charles County",2197,750,11.23,0.08,11.15,197.0,67.3
+0400000US24,24,Maryland,1600000US2441037,2441037,"Maryland - PLACE - Huntingtown CDP, Calvert County","Huntingtown CDP, Calvert County",3311,1053,8.10,0.03,8.07,410.2,130.5
+0400000US24,24,Maryland,1600000US2441125,2441125,"Maryland - PLACE - Hurlock town, Dorchester County","Hurlock town, Dorchester County",2092,903,2.89,0.22,2.66,785.8,339.2
+0400000US24,24,Maryland,1600000US2441175,2441175,"Maryland - PLACE - Hutton CDP, Garrett County","Hutton CDP, Garrett County",86,38,0.17,0.00,0.17,510.2,225.5
+0400000US24,24,Maryland,1600000US2441250,2441250,"Maryland - PLACE - Hyattsville city, Prince George's County","Hyattsville city, Prince George's County",17557,6837,2.69,0.03,2.67,6588.0,2565.5
+0400000US24,24,Maryland,1600000US2441475,2441475,"Maryland - PLACE - Ilchester CDP, Howard County","Ilchester CDP, Howard County",23476,8809,10.81,0.06,10.75,2184.7,819.8
+0400000US24,24,Maryland,1600000US2441500,2441500,"Maryland - PLACE - Indian Head town, Charles County","Indian Head town, Charles County",3844,1554,1.23,0.00,1.23,3123.2,1262.6
+0400000US24,24,Maryland,1600000US2441700,2441700,"Maryland - PLACE - Indian Springs CDP, Washington County","Indian Springs CDP, Washington County",64,27,0.12,0.00,0.12,549.9,232.0
+0400000US24,24,Maryland,1600000US2442325,2442325,"Maryland - PLACE - Jarrettsville CDP, Harford County","Jarrettsville CDP, Harford County",2916,1026,8.66,0.03,8.64,337.6,118.8
+0400000US24,24,Maryland,1600000US2442350,2442350,"Maryland - PLACE - Jefferson CDP, Frederick County","Jefferson CDP, Frederick County",2111,822,2.10,0.00,2.10,1006.2,391.8
+0400000US24,24,Maryland,1600000US2442450,2442450,"Maryland - PLACE - Jennings CDP, Garrett County","Jennings CDP, Garrett County",113,53,0.33,0.00,0.33,338.1,158.6
+0400000US24,24,Maryland,1600000US2442550,2442550,Maryland - PLACE - Jessup CDP,Jessup CDP,7137,548,5.26,0.01,5.25,1358.4,104.3
+0400000US24,24,Maryland,1550000US2442550003,2442550003,Maryland - PLACE - Jessup CDP - Anne Arundel County (part),Anne Arundel County (part),5649,383,3.54,0.00,3.54,1596.3,108.2
+0400000US24,24,Maryland,1550000US2442550027,2442550027,Maryland - PLACE - Jessup CDP - Howard County (part),Howard County (part),1488,165,1.72,0.01,1.72,867.5,96.2
+0400000US24,24,Maryland,1600000US2442575,2442575,"Maryland - PLACE - Jesterville CDP, Wicomico County","Jesterville CDP, Wicomico County",188,104,1.82,0.23,1.59,118.6,65.6
+0400000US24,24,Maryland,1600000US2442875,2442875,"Maryland - PLACE - Joppatowne CDP, Harford County","Joppatowne CDP, Harford County",12616,5057,7.39,0.66,6.73,1874.8,751.5
+0400000US24,24,Maryland,1600000US2442950,2442950,"Maryland - PLACE - Jugtown CDP, Washington County","Jugtown CDP, Washington County",204,75,0.33,0.00,0.33,611.2,224.7
+0400000US24,24,Maryland,1600000US2443100,2443100,"Maryland - PLACE - Keedysville town, Washington County","Keedysville town, Washington County",1152,407,0.92,0.00,0.92,1257.3,444.2
+0400000US24,24,Maryland,1600000US2443200,2443200,"Maryland - PLACE - Kemp Mill CDP, Montgomery County","Kemp Mill CDP, Montgomery County",12564,4664,2.56,0.03,2.54,4952.1,1838.3
+0400000US24,24,Maryland,1600000US2443280,2443280,"Maryland - PLACE - Kemps Mill CDP, Washington County","Kemps Mill CDP, Washington County",126,57,0.26,0.00,0.26,488.6,221.0
+0400000US24,24,Maryland,1600000US2443475,2443475,"Maryland - PLACE - Kennedyville CDP, Kent County","Kennedyville CDP, Kent County",199,97,0.57,0.01,0.56,356.3,173.7
+0400000US24,24,Maryland,1600000US2443500,2443500,"Maryland - PLACE - Kensington town, Montgomery County","Kensington town, Montgomery County",2213(r44985),902(r21552),0.48,0.00,0.48,4649.5,1895.1
+0400000US24,24,Maryland,1600000US2443725,2443725,"Maryland - PLACE - Kent Narrows CDP, Queen Anne's County","Kent Narrows CDP, Queen Anne's County",567,415,3.22,2.23,0.99,572.8,419.2
+0400000US24,24,Maryland,1600000US2443900,2443900,"Maryland - PLACE - Kettering CDP, Prince George's County","Kettering CDP, Prince George's County",12790,5126,5.52,0.02,5.50,2327.2,932.7
+0400000US24,24,Maryland,1600000US2444325,2444325,"Maryland - PLACE - Kingstown CDP, Queen Anne's County","Kingstown CDP, Queen Anne's County",1733,805,2.58,0.31,2.27,764.9,355.3
+0400000US24,24,Maryland,1600000US2444350,2444350,"Maryland - PLACE - Kingsville CDP, Baltimore County","Kingsville CDP, Baltimore County",4318,1639,10.11,0.07,10.04,430.1,163.3
+0400000US24,24,Maryland,1600000US2444450,2444450,"Maryland - PLACE - Kitzmiller town, Garrett County","Kitzmiller town, Garrett County",321,158,0.25,0.03,0.22,1443.3,710.4
+0400000US24,24,Maryland,1600000US2444525,2444525,"Maryland - PLACE - Klondike CDP, Allegany County","Klondike CDP, Allegany County",118,48,0.38,0.00,0.38,309.4,125.8
+0400000US24,24,Maryland,1600000US2444715,2444715,"Maryland - PLACE - Konterra CDP, Prince George's County","Konterra CDP, Prince George's County",2527,1076,6.39,0.07,6.32,399.8,170.2
+0400000US24,24,Maryland,1600000US2444817,2444817,"Maryland - PLACE - Lake Arbor CDP, Prince George's County","Lake Arbor CDP, Prince George's County",9776,4322,3.07,0.06,3.01,3251.1,1437.3
+0400000US24,24,Maryland,1600000US2444975,2444975,"Maryland - PLACE - Lake Shore CDP, Anne Arundel County","Lake Shore CDP, Anne Arundel County",19477,7375,17.63,4.18,13.45,1448.1,548.3
+0400000US24,24,Maryland,1600000US2445325,2445325,"Maryland - PLACE - Landover CDP, Prince George's County","Landover CDP, Prince George's County",23078,8645,4.07,0.01,4.07,5672.5,2124.9
+0400000US24,24,Maryland,1600000US2445400,2445400,"Maryland - PLACE - Landover Hills town, Prince George's County","Landover Hills town, Prince George's County",1687,549,0.30,0.00,0.30,5666.2,1843.9
+0400000US24,24,Maryland,1600000US2445525,2445525,"Maryland - PLACE - Langley Park CDP, Prince George's County","Langley Park CDP, Prince George's County",18755,5367,0.99,0.00,0.99,18864.0,5398.2
+0400000US24,24,Maryland,1600000US2445550,2445550,"Maryland - PLACE - Lanham CDP, Prince George's County","Lanham CDP, Prince George's County",10157,3207,3.55,0.02,3.53,2879.1,909.1
+0400000US24,24,Maryland,1600000US2445650,2445650,"Maryland - PLACE - Lansdowne CDP, Baltimore County","Lansdowne CDP, Baltimore County",8409(r44986),3255(r21553),2.40,0.13,2.28,3694.5,1430.1
+0400000US24,24,Maryland,1600000US2445750,2445750,"Maryland - PLACE - La Plata town, Charles County","La Plata town, Charles County",8753,3234,7.44,0.05,7.40,1183.6,437.3
+0400000US24,24,Maryland,1600000US2445825,2445825,"Maryland - PLACE - Largo CDP, Prince George's County","Largo CDP, Prince George's County",10709,4622,3.06,0.00,3.06,3498.1,1509.8
+0400000US24,24,Maryland,1600000US2445900,2445900,"Maryland - PLACE - Laurel city, Prince George's County","Laurel city, Prince George's County",25115,11397,4.33,0.03,4.30,5838.7,2649.5
+0400000US24,24,Maryland,1600000US2446075,2446075,"Maryland - PLACE - La Vale CDP, Allegany County","La Vale CDP, Allegany County",3551,1646,2.67,0.00,2.67,1332.1,617.5
+0400000US24,24,Maryland,1600000US2446150,2446150,"Maryland - PLACE - Layhill CDP, Montgomery County","Layhill CDP, Montgomery County",5169,1775,1.58,0.01,1.57,3287.7,1129.0
+0400000US24,24,Maryland,1600000US2446250,2446250,"Maryland - PLACE - Laytonsville town, Montgomery County","Laytonsville town, Montgomery County",353,133,1.04,0.00,1.04,339.3,127.8
+0400000US24,24,Maryland,1600000US2446375,2446375,"Maryland - PLACE - Leisure World CDP, Montgomery County","Leisure World CDP, Montgomery County",8749,6391,1.10,0.01,1.09,8000.7,5844.4
+0400000US24,24,Maryland,1600000US2446400,2446400,"Maryland - PLACE - Leitersburg CDP, Washington County","Leitersburg CDP, Washington County",573,241,1.76,0.00,1.76,325.9,137.1
+0400000US24,24,Maryland,1600000US2446475,2446475,"Maryland - PLACE - Leonardtown town, St. Mary's County","Leonardtown town, St. Mary's County",2930,1156,3.25,0.07,3.18,920.9,363.3
+0400000US24,24,Maryland,1600000US2446725,2446725,"Maryland - PLACE - Lexington Park CDP, St. Mary's County","Lexington Park CDP, St. Mary's County",11626,5124,5.63,0.01,5.62,2068.3,911.6
+0400000US24,24,Maryland,1600000US2446800,2446800,"Maryland - PLACE - Libertytown CDP, Frederick County","Libertytown CDP, Frederick County",950,397,2.42,0.01,2.41,394.2,164.7
+0400000US24,24,Maryland,1600000US2447040,2447040,"Maryland - PLACE - Linganore CDP, Frederick County","Linganore CDP, Frederick County",8543,2929,5.99,0.25,5.74,1488.0,510.2
+0400000US24,24,Maryland,1600000US2447125,2447125,"Maryland - PLACE - Linthicum CDP, Anne Arundel County","Linthicum CDP, Anne Arundel County",10324,4185,5.50,0.04,5.46,1891.2,766.6
+0400000US24,24,Maryland,1600000US2447275,2447275,"Maryland - PLACE - Little Orleans CDP, Allegany County","Little Orleans CDP, Allegany County",42,37,0.71,0.00,0.70,59.7,52.6
+0400000US24,24,Maryland,1600000US2447450,2447450,"Maryland - PLACE - Lochearn CDP, Baltimore County","Lochearn CDP, Baltimore County",25333,10427,5.62,0.03,5.59,4529.6,1864.4
+0400000US24,24,Maryland,1600000US2447525,2447525,"Maryland - PLACE - Loch Lynn Heights town, Garrett County","Loch Lynn Heights town, Garrett County",552,228,0.32,0.00,0.32,1735.5,716.9
+0400000US24,24,Maryland,1600000US2447875,2447875,"Maryland - PLACE - Lonaconing town, Allegany County","Lonaconing town, Allegany County",1214,525,0.42,0.00,0.41,2930.3,1267.2
+0400000US24,24,Maryland,1600000US2448025,2448025,"Maryland - PLACE - Long Beach CDP, Calvert County","Long Beach CDP, Calvert County",1821,768,1.69,0.02,1.67,1090.3,459.8
+0400000US24,24,Maryland,1600000US2448775,2448775,"Maryland - PLACE - Luke town, Allegany County","Luke town, Allegany County",65,61,0.31,0.04,0.27,244.0,228.9
+0400000US24,24,Maryland,1600000US2448800,2448800,"Maryland - PLACE - Lusby CDP, Calvert County","Lusby CDP, Calvert County",1835,717,3.68,0.17,3.51,522.3,204.1
+0400000US24,24,Maryland,1600000US2448875,2448875,"Maryland - PLACE - Lutherville CDP, Baltimore County","Lutherville CDP, Baltimore County",6504,2785,2.11,0.00,2.11,3078.2,1318.1
+0400000US24,24,Maryland,1600000US2449325,2449325,"Maryland - PLACE - McCoole CDP, Allegany County","McCoole CDP, Allegany County",511,243,1.40,0.00,1.40,363.8,173.0
+0400000US24,24,Maryland,1600000US2449700,2449700,"Maryland - PLACE - Madison CDP, Dorchester County","Madison CDP, Dorchester County",204,114,3.24,0.04,3.20,63.7,35.6
+0400000US24,24,Maryland,1600000US2449950,2449950,"Maryland - PLACE - Manchester town, Carroll County","Manchester town, Carroll County",4808,1713,2.34,0.01,2.34,2055.7,732.4
+0400000US24,24,Maryland,1600000US2450375,2450375,"Maryland - PLACE - Mapleville CDP, Washington County","Mapleville CDP, Washington County",238,94,0.40,0.00,0.40,589.9,233.0
+0400000US24,24,Maryland,1600000US2450525,2450525,"Maryland - PLACE - Mardela Springs town, Wicomico County","Mardela Springs town, Wicomico County",347,160,0.40,0.00,0.39,880.1,405.8
+0400000US24,24,Maryland,1600000US2450680,2450680,"Maryland - PLACE - Marlboro Meadows CDP, Prince George's County","Marlboro Meadows CDP, Prince George's County",3672,1290,6.17,0.08,6.09,602.9,211.8
+0400000US24,24,Maryland,1600000US2450685,2450685,"Maryland - PLACE - Marlboro Village CDP, Prince George's County","Marlboro Village CDP, Prince George's County",9438,3797,3.90,0.04,3.86,2446.2,984.1
+0400000US24,24,Maryland,1600000US2450750,2450750,"Maryland - PLACE - Marlow Heights CDP, Prince George's County","Marlow Heights CDP, Prince George's County",5618,2441,2.04,0.00,2.03,2762.3,1200.2
+0400000US24,24,Maryland,1600000US2450775,2450775,"Maryland - PLACE - Marlton CDP, Prince George's County","Marlton CDP, Prince George's County",9031,3498,5.95,0.01,5.94,1521.6,589.4
+0400000US24,24,Maryland,1600000US2450965,2450965,"Maryland - PLACE - Martin's Additions village, Montgomery County","Martin's Additions village, Montgomery County",933,329,0.14,0.00,0.14,6749.8,2380.2
+0400000US24,24,Maryland,1600000US2451025,2451025,"Maryland - PLACE - Marydel town, Caroline County","Marydel town, Caroline County",141,50,0.08,0.00,0.08,1774.1,629.1
+0400000US24,24,Maryland,1600000US2451075,2451075,"Maryland - PLACE - Maryland City CDP, Anne Arundel County","Maryland City CDP, Anne Arundel County",16093,6615,7.74,0.00,7.74,2080.4,855.2
+0400000US24,24,Maryland,1600000US2451425,2451425,"Maryland - PLACE - Maugansville CDP, Washington County","Maugansville CDP, Washington County",3071,1281,2.45,0.00,2.45,1253.7,522.9
+0400000US24,24,Maryland,1600000US2451575,2451575,"Maryland - PLACE - Mayo CDP, Anne Arundel County","Mayo CDP, Anne Arundel County",8298,3393,9.44,3.82,5.62,1476.2,603.6
+0400000US24,24,Maryland,1600000US2451587,2451587,"Maryland - PLACE - Mays Chapel CDP, Baltimore County","Mays Chapel CDP, Baltimore County",11420,4920,3.71,0.00,3.71,3079.3,1326.6
+0400000US24,24,Maryland,1600000US2451800,2451800,"Maryland - PLACE - Mechanicsville CDP, St. Mary's County","Mechanicsville CDP, St. Mary's County",1508,550,5.22,0.01,5.21,289.2,105.5
+0400000US24,24,Maryland,1600000US2451860,2451860,"Maryland - PLACE - Melwood CDP, Prince George's County","Melwood CDP, Prince George's County",3051,1324,2.83,0.01,2.82,1081.7,469.4
+0400000US24,24,Maryland,1600000US2451945,2451945,"Maryland - PLACE - Mercersville CDP, Washington County","Mercersville CDP, Washington County",130,66,0.32,0.00,0.32,402.8,204.5
+0400000US24,24,Maryland,1600000US2452225,2452225,"Maryland - PLACE - Middleburg CDP, Washington County","Middleburg CDP, Washington County",70,26,0.10,0.00,0.10,718.7,266.9
+0400000US24,24,Maryland,1600000US2452300,2452300,"Maryland - PLACE - Middle River CDP, Baltimore County","Middle River CDP, Baltimore County",25191,10538,8.51,0.73,7.78,3239.2,1355.0
+0400000US24,24,Maryland,1600000US2452425,2452425,"Maryland - PLACE - Middletown town, Frederick County","Middletown town, Frederick County",4136,1569,1.74,0.00,1.74,2383.3,904.1
+0400000US24,24,Maryland,1600000US2452475,2452475,"Maryland - PLACE - Midland town, Allegany County","Midland town, Allegany County",446,214,0.19,0.00,0.19,2306.5,1106.7
+0400000US24,24,Maryland,1600000US2452525,2452525,"Maryland - PLACE - Midlothian CDP, Allegany County","Midlothian CDP, Allegany County",320,144,0.62,0.00,0.62,516.1,232.2
+0400000US24,24,Maryland,1600000US2452562,2452562,"Maryland - PLACE - Milford Mill CDP, Baltimore County","Milford Mill CDP, Baltimore County",29042,12232,6.95,0.01,6.94,4182.9,1761.7
+0400000US24,24,Maryland,1600000US2452825,2452825,Maryland - PLACE - Millington town,Millington town,642,256,0.69,0.02,0.66,966.0,385.2
+0400000US24,24,Maryland,1550000US2452825029,2452825029,Maryland - PLACE - Millington town - Kent County (part),Kent County (part),605,240,0.62,0.02,0.60,1010.7,400.9
+0400000US24,24,Maryland,1550000US2452825035,2452825035,Maryland - PLACE - Millington town - Queen Anne's County (part),Queen Anne's County (part),37,16,0.07,0.00,0.07,560.7,242.4
+0400000US24,24,Maryland,1600000US2452975,2452975,"Maryland - PLACE - Mitchellville CDP, Prince George's County","Mitchellville CDP, Prince George's County",10967,3918,5.07,0.02,5.05,2170.8,775.5
+0400000US24,24,Maryland,1600000US2453100,2453100,"Maryland - PLACE - Monrovia CDP, Frederick County","Monrovia CDP, Frederick County",416,148,2.24,0.00,2.24,185.9,66.1
+0400000US24,24,Maryland,1600000US2453325,2453325,"Maryland - PLACE - Montgomery Village CDP, Montgomery County","Montgomery Village CDP, Montgomery County",32032,12471,4.06,0.06,4.00,8017.7,3121.5
+0400000US24,24,Maryland,1600000US2453625,2453625,"Maryland - PLACE - Morningside town, Prince George's County","Morningside town, Prince George's County",2015,922,0.56,0.00,0.56,3592.1,1643.6
+0400000US24,24,Maryland,1600000US2453700,2453700,"Maryland - PLACE - Moscow CDP, Allegany County","Moscow CDP, Allegany County",240,102,0.17,0.00,0.16,1478.2,628.2
+0400000US24,24,Maryland,1600000US2453750,2453750,"Maryland - PLACE - Mount Aetna CDP, Washington County","Mount Aetna CDP, Washington County",561,217,1.41,0.00,1.41,397.1,153.6
+0400000US24,24,Maryland,1600000US2453800,2453800,"Maryland - PLACE - Mountain Lake Park town, Garrett County","Mountain Lake Park town, Garrett County",2092,954,2.01,0.07,1.94,1080.2,492.6
+0400000US24,24,Maryland,1600000US2453875,2453875,Maryland - PLACE - Mount Airy town,Mount Airy town,9288,3225,4.13,0.01,4.12,2255.3,783.1
+0400000US24,24,Maryland,1550000US2453875013,2453875013,Maryland - PLACE - Mount Airy town - Carroll County (part),Carroll County (part),5503,2011,2.73,0.01,2.73,2018.6,737.7
+0400000US24,24,Maryland,1550000US2453875021,2453875021,Maryland - PLACE - Mount Airy town - Frederick County (part),Frederick County (part),3785,1214,1.40,0.00,1.39,2718.6,872.0
+0400000US24,24,Maryland,1600000US2453925,2453925,"Maryland - PLACE - Mount Briar CDP, Washington County","Mount Briar CDP, Washington County",160,73,0.62,0.00,0.62,256.9,117.2
+0400000US24,24,Maryland,1600000US2454125,2454125,"Maryland - PLACE - Mount Lena CDP, Washington County","Mount Lena CDP, Washington County",515,220,1.25,0.00,1.25,411.0,175.6
+0400000US24,24,Maryland,1600000US2454275,2454275,"Maryland - PLACE - Mount Rainier city, Prince George's County","Mount Rainier city, Prince George's County",8080,3601,0.65,0.00,0.65,12443.3,5545.6
+0400000US24,24,Maryland,1600000US2454325,2454325,"Maryland - PLACE - Mount Savage CDP, Allegany County","Mount Savage CDP, Allegany County",873,384,0.92,0.00,0.92,947.9,416.9
+0400000US24,24,Maryland,1600000US2454375,2454375,"Maryland - PLACE - Mount Vernon CDP, Somerset County","Mount Vernon CDP, Somerset County",779,414,15.65,2.62,13.03,59.8,31.8
+0400000US24,24,Maryland,1600000US2454875,2454875,"Maryland - PLACE - Myersville town, Frederick County","Myersville town, Frederick County",1626,553,1.02,0.00,1.02,1592.5,541.6
+0400000US24,24,Maryland,1600000US2454925,2454925,"Maryland - PLACE - Nanticoke CDP, Wicomico County","Nanticoke CDP, Wicomico County",225,163,2.60,0.01,2.59,86.9,62.9
+0400000US24,24,Maryland,1600000US2454930,2454930,"Maryland - PLACE - Nanticoke Acres CDP, Wicomico County","Nanticoke Acres CDP, Wicomico County",103,72,0.26,0.00,0.26,389.3,272.1
+0400000US24,24,Maryland,1600000US2455000,2455000,"Maryland - PLACE - National CDP, Allegany County","National CDP, Allegany County",56,28,0.16,0.00,0.16,357.3,178.7
+0400000US24,24,Maryland,1600000US2455018,2455018,"Maryland - PLACE - National Harbor CDP, Prince George's County","National Harbor CDP, Prince George's County",3788,1963,1.85,0.40,1.45,2616.5,1355.9
+0400000US24,24,Maryland,1600000US2455050,2455050,"Maryland - PLACE - Naval Academy CDP, Anne Arundel County","Naval Academy CDP, Anne Arundel County",4802,136,0.86,0.32,0.55,8801.0,249.3
+0400000US24,24,Maryland,1600000US2455325,2455325,"Maryland - PLACE - Newark CDP, Worcester County","Newark CDP, Worcester County",336,165,9.52,0.02,9.51,35.3,17.4
+0400000US24,24,Maryland,1600000US2455400,2455400,"Maryland - PLACE - New Carrollton city, Prince George's County","New Carrollton city, Prince George's County",12135,4256,1.53,0.00,1.53,7937.5,2783.9
+0400000US24,24,Maryland,1600000US2455650,2455650,"Maryland - PLACE - New Market town, Frederick County","New Market town, Frederick County",656,247,0.80,0.00,0.80,822.4,309.6
+0400000US24,24,Maryland,1600000US2455925,2455925,"Maryland - PLACE - New Windsor town, Carroll County","New Windsor town, Carroll County",1396,566,0.75,0.01,0.74,1879.5,762.0
+0400000US24,24,Maryland,1600000US2455950,2455950,"Maryland - PLACE - Nikep CDP, Allegany County","Nikep CDP, Allegany County",116,42,0.15,0.00,0.15,770.9,279.1
+0400000US24,24,Maryland,1600000US2456300,2456300,"Maryland - PLACE - North Beach town, Calvert County","North Beach town, Calvert County",1978,1063,0.34,0.01,0.33,5983.9,3215.8
+0400000US24,24,Maryland,1600000US2456337,2456337,"Maryland - PLACE - North Bethesda CDP, Montgomery County","North Bethesda CDP, Montgomery County",43828,20789,8.86,0.01,8.85,4953.0,2349.4
+0400000US24,24,Maryland,1600000US2456375,2456375,"Maryland - PLACE - North Brentwood town, Prince George's County","North Brentwood town, Prince George's County",517,183,0.10,0.00,0.10,5009.1,1773.1
+0400000US24,24,Maryland,1600000US2456400,2456400,"Maryland - PLACE - North Chevy Chase village, Montgomery County","North Chevy Chase village, Montgomery County",519,195,0.11,0.00,0.11,4654.1,1748.7
+0400000US24,24,Maryland,1600000US2456450,2456450,"Maryland - PLACE - North East town, Cecil County","North East town, Cecil County",3572,1651,2.10,0.05,2.06,1737.8,803.2
+0400000US24,24,Maryland,1600000US2456712,2456712,"Maryland - PLACE - North Kensington CDP, Montgomery County","North Kensington CDP, Montgomery County",9514,3771,1.54,0.01,1.53,6228.4,2468.7
+0400000US24,24,Maryland,1600000US2456725,2456725,"Maryland - PLACE - North Laurel CDP, Howard County","North Laurel CDP, Howard County",4474,1636,1.27,0.04,1.23,3629.3,1327.1
+0400000US24,24,Maryland,1600000US2456875,2456875,"Maryland - PLACE - North Potomac CDP, Montgomery County","North Potomac CDP, Montgomery County",24410,8178,6.56,0.04,6.52,3744.4,1254.5
+0400000US24,24,Maryland,1600000US2457650,2457650,"Maryland - PLACE - Oakland town, Garrett County","Oakland town, Garrett County",1925,1009,2.60,0.01,2.59,742.9,389.4
+0400000US24,24,Maryland,1600000US2458215,2458215,"Maryland - PLACE - Ocean CDP, Allegany County","Ocean CDP, Allegany County",32,11,0.04,0.00,0.04,726.7,249.8
+0400000US24,24,Maryland,1600000US2458225,2458225,"Maryland - PLACE - Ocean City town, Worcester County","Ocean City town, Worcester County",7102,30119,36.37,31.96,4.41,1609.8,6826.9
+0400000US24,24,Maryland,1600000US2458275,2458275,"Maryland - PLACE - Ocean Pines CDP, Worcester County","Ocean Pines CDP, Worcester County",11710,8870,9.37,2.71,6.66,1758.4,1331.9
+0400000US24,24,Maryland,1600000US2458300,2458300,"Maryland - PLACE - Odenton CDP, Anne Arundel County","Odenton CDP, Anne Arundel County",37132,15319,14.78,0.00,14.78,2513.1,1036.8
+0400000US24,24,Maryland,1600000US2458775,2458775,"Maryland - PLACE - Oldtown CDP, Allegany County","Oldtown CDP, Allegany County",86,37,0.13,0.00,0.13,643.8,277.0
+0400000US24,24,Maryland,1600000US2458900,2458900,"Maryland - PLACE - Olney CDP, Montgomery County","Olney CDP, Montgomery County",33844,11879,16.24,0.05,16.19,2090.0,733.6
+0400000US24,24,Maryland,1600000US2459325,2459325,"Maryland - PLACE - Overlea CDP, Baltimore County","Overlea CDP, Baltimore County",12275(r44987),5274(r21554),3.00,0.00,3.00,4087.1,1756.0
+0400000US24,24,Maryland,1600000US2459375,2459375,"Maryland - PLACE - Owings CDP, Calvert County","Owings CDP, Calvert County",2149,679,3.95,0.01,3.94,545.5,172.4
+0400000US24,24,Maryland,1600000US2459425,2459425,"Maryland - PLACE - Owings Mills CDP, Baltimore County","Owings Mills CDP, Baltimore County",30622,13282,9.58,0.04,9.54,3210.5,1392.5
+0400000US24,24,Maryland,1600000US2459450,2459450,"Maryland - PLACE - Oxford town, Talbot County","Oxford town, Talbot County",651,574,0.83,0.29,0.54,1208.9,1065.9
+0400000US24,24,Maryland,1600000US2459500,2459500,"Maryland - PLACE - Oxon Hill CDP, Prince George's County","Oxon Hill CDP, Prince George's County",17722,7643,6.63,0.01,6.62,2677.7,1154.8
+0400000US24,24,Maryland,1600000US2459787,2459787,"Maryland - PLACE - Paramount-Long Meadow CDP, Washington County","Paramount-Long Meadow CDP, Washington County",2571,1001,2.18,0.00,2.18,1177.6,458.5
+0400000US24,24,Maryland,1600000US2460275,2460275,"Maryland - PLACE - Parkville CDP, Baltimore County","Parkville CDP, Baltimore County",30734(r44988),13482(r21555),4.29,0.00,4.29,7162.4,3141.9
+0400000US24,24,Maryland,1600000US2460325,2460325,"Maryland - PLACE - Parole CDP, Anne Arundel County","Parole CDP, Anne Arundel County",15922,8679,11.83,1.56,10.27,1550.1,845.0
+0400000US24,24,Maryland,1600000US2460425,2460425,"Maryland - PLACE - Parsonsburg CDP, Wicomico County","Parsonsburg CDP, Wicomico County",339,149,1.31,0.00,1.31,259.7,114.2
+0400000US24,24,Maryland,1600000US2460475,2460475,"Maryland - PLACE - Pasadena CDP, Anne Arundel County","Pasadena CDP, Anne Arundel County",24287,8911,16.11,1.18,14.94,1626.0,596.6
+0400000US24,24,Maryland,1600000US2460770,2460770,"Maryland - PLACE - Pecktonville CDP, Washington County","Pecktonville CDP, Washington County",167,71,0.59,0.00,0.59,283.7,120.6
+0400000US24,24,Maryland,1600000US2460950,2460950,"Maryland - PLACE - Peppermill Village CDP, Prince George's County","Peppermill Village CDP, Prince George's County",4895,1805,0.75,0.00,0.75,6531.2,2408.3
+0400000US24,24,Maryland,1600000US2460975,2460975,"Maryland - PLACE - Perry Hall CDP, Baltimore County","Perry Hall CDP, Baltimore County",28474,11859,6.98,0.00,6.97,4083.3,1700.7
+0400000US24,24,Maryland,1600000US2461075,2461075,"Maryland - PLACE - Perryman CDP, Harford County","Perryman CDP, Harford County",2342,1059,5.59,0.06,5.53,423.8,191.6
+0400000US24,24,Maryland,1600000US2461150,2461150,"Maryland - PLACE - Perryville town, Cecil County","Perryville town, Cecil County",4361,1959,3.06,0.01,3.05,1429.8,642.3
+0400000US24,24,Maryland,1600000US2461400,2461400,"Maryland - PLACE - Pikesville CDP, Baltimore County","Pikesville CDP, Baltimore County",30764(r44989),14323(r21556),12.38,0.03,12.35,2490.7,1159.6
+0400000US24,24,Maryland,1600000US2461700,2461700,"Maryland - PLACE - Pinesburg CDP, Washington County","Pinesburg CDP, Washington County",449,193,0.73,0.00,0.73,613.0,263.5
+0400000US24,24,Maryland,1600000US2461875,2461875,"Maryland - PLACE - Piney Point CDP, St. Mary's County","Piney Point CDP, St. Mary's County",864,475,1.87,0.34,1.53,565.4,310.8
+0400000US24,24,Maryland,1600000US2462025,2462025,"Maryland - PLACE - Pittsville town, Wicomico County","Pittsville town, Wicomico County",1417,668,1.68,0.00,1.68,843.2,397.5
+0400000US24,24,Maryland,1600000US2462100,2462100,"Maryland - PLACE - Pleasant Grove CDP, Allegany County","Pleasant Grove CDP, Allegany County",353,185,1.58,0.00,1.58,223.4,117.1
+0400000US24,24,Maryland,1600000US2462175,2462175,"Maryland - PLACE - Pleasant Hills CDP, Harford County","Pleasant Hills CDP, Harford County",3379,1221,4.37,0.01,4.36,775.1,280.1
+0400000US24,24,Maryland,1600000US2462475,2462475,"Maryland - PLACE - Pocomoke City city, Worcester County","Pocomoke City city, Worcester County",4184,1894,3.94,0.25,3.69,1134.2,513.4
+0400000US24,24,Maryland,1600000US2462575,2462575,"Maryland - PLACE - Point of Rocks CDP, Frederick County","Point of Rocks CDP, Frederick County",1466,526,1.10,0.00,1.10,1331.0,477.6
+0400000US24,24,Maryland,1600000US2462675,2462675,"Maryland - PLACE - Pomfret CDP, Charles County","Pomfret CDP, Charles County",517,204,2.74,0.00,2.74,188.7,74.5
+0400000US24,24,Maryland,1600000US2462775,2462775,"Maryland - PLACE - Pondsville CDP, Washington County","Pondsville CDP, Washington County",158,60,0.31,0.00,0.31,512.1,194.5
+0400000US24,24,Maryland,1600000US2462850,2462850,"Maryland - PLACE - Poolesville town, Montgomery County","Poolesville town, Montgomery County",4883,1663,3.95,0.02,3.93,1242.2,423.1
+0400000US24,24,Maryland,1600000US2463075,2463075,"Maryland - PLACE - Port Deposit town, Cecil County","Port Deposit town, Cecil County",653,429,2.27,0.00,2.27,288.2,189.3
+0400000US24,24,Maryland,1600000US2463225,2463225,"Maryland - PLACE - Port Tobacco Village town, Charles County","Port Tobacco Village town, Charles County",13,7,0.16,0.00,0.16,83.2,44.8
+0400000US24,24,Maryland,1600000US2463300,2463300,"Maryland - PLACE - Potomac CDP, Montgomery County","Potomac CDP, Montgomery County",44965,16642,26.58,1.46,25.11,1790.5,662.7
+0400000US24,24,Maryland,1600000US2463375,2463375,"Maryland - PLACE - Potomac Heights CDP, Charles County","Potomac Heights CDP, Charles County",1117,562,1.32,0.25,1.07,1040.8,523.7
+0400000US24,24,Maryland,1600000US2463425,2463425,"Maryland - PLACE - Potomac Park CDP, Allegany County","Potomac Park CDP, Allegany County",2530(r44990),406,0.39,0.00,0.39,6559.9,1052.7
+0400000US24,24,Maryland,1600000US2463725,2463725,"Maryland - PLACE - Powellville CDP, Wicomico County","Powellville CDP, Wicomico County",189,86,1.49,0.01,1.48,127.6,58.0
+0400000US24,24,Maryland,1600000US2463825,2463825,"Maryland - PLACE - Preston town, Caroline County","Preston town, Caroline County",719,295,0.57,0.00,0.57,1261.8,517.7
+0400000US24,24,Maryland,1600000US2463950,2463950,"Maryland - PLACE - Prince Frederick CDP, Calvert County","Prince Frederick CDP, Calvert County",2538,1111,3.67,0.00,3.66,693.0,303.4
+0400000US24,24,Maryland,1600000US2464000,2464000,"Maryland - PLACE - Princess Anne town, Somerset County","Princess Anne town, Somerset County",3290,1500,1.68,0.02,1.67,1973.1,899.6
+0400000US24,24,Maryland,1600000US2464375,2464375,"Maryland - PLACE - Pylesville CDP, Harford County","Pylesville CDP, Harford County",693,242,4.75,0.01,4.74,146.1,51.0
+0400000US24,24,Maryland,1600000US2464475,2464475,"Maryland - PLACE - Quantico CDP, Wicomico County","Quantico CDP, Wicomico County",133,55,1.89,0.00,1.89,70.4,29.1
+0400000US24,24,Maryland,1600000US2464495,2464495,"Maryland - PLACE - Queen Anne CDP, Prince George's County","Queen Anne CDP, Prince George's County",1280,438,8.73,0.02,8.71,146.9,50.3
+0400000US24,24,Maryland,1600000US2464500,2464500,Maryland - PLACE - Queen Anne town,Queen Anne town,222,89,0.13,0.00,0.13,1678.6,672.9
+0400000US24,24,Maryland,1550000US2464500035,2464500035,Maryland - PLACE - Queen Anne town - Queen Anne's County (part),Queen Anne's County (part),128,53,0.08,0.00,0.08,1682.9,696.8
+0400000US24,24,Maryland,1550000US2464500041,2464500041,Maryland - PLACE - Queen Anne town - Talbot County (part),Talbot County (part),94,36,0.06,0.00,0.06,1672.6,640.6
+0400000US24,24,Maryland,1600000US2464535,2464535,"Maryland - PLACE - Queenland CDP, Prince George's County","Queenland CDP, Prince George's County",1929,680,4.87,0.01,4.86,397.2,140.0
+0400000US24,24,Maryland,1600000US2464600,2464600,"Maryland - PLACE - Queenstown town, Queen Anne's County","Queenstown town, Queen Anne's County",664,294,1.45,0.00,1.45,457.0,202.3
+0400000US24,24,Maryland,1600000US2464950,2464950,"Maryland - PLACE - Randallstown CDP, Baltimore County","Randallstown CDP, Baltimore County",32430,12634,10.23,0.01,10.22,3174.3,1236.6
+0400000US24,24,Maryland,1600000US2465150,2465150,"Maryland - PLACE - Rawlings CDP, Allegany County","Rawlings CDP, Allegany County",693,300,0.90,0.00,0.89,776.0,335.9
+0400000US24,24,Maryland,1600000US2465312,2465312,"Maryland - PLACE - Redland CDP, Montgomery County","Redland CDP, Montgomery County",17242,5596,7.24,0.18,7.06,2442.0,792.6
+0400000US24,24,Maryland,1600000US2465550,2465550,"Maryland - PLACE - Reid CDP, Washington County","Reid CDP, Washington County",54,22,0.13,0.00,0.13,431.5,175.8
+0400000US24,24,Maryland,1600000US2465600,2465600,"Maryland - PLACE - Reisterstown CDP, Baltimore County","Reisterstown CDP, Baltimore County",25968,10594,5.17,0.00,5.16,5029.1,2051.7
+0400000US24,24,Maryland,1600000US2466000,2466000,"Maryland - PLACE - Ridgely town, Caroline County","Ridgely town, Caroline County",1639,667,1.78,0.00,1.78,920.8,374.7
+0400000US24,24,Maryland,1600000US2466150,2466150,"Maryland - PLACE - Ringgold CDP, Washington County","Ringgold CDP, Washington County",166,72,0.29,0.00,0.29,575.5,249.6
+0400000US24,24,Maryland,1600000US2466275,2466275,"Maryland - PLACE - Rising Sun town, Cecil County","Rising Sun town, Cecil County",2781,1137,1.27,0.01,1.26,2209.5,903.3
+0400000US24,24,Maryland,1600000US2466400,2466400,"Maryland - PLACE - Riva CDP, Anne Arundel County","Riva CDP, Anne Arundel County",4076,1569,2.90,0.45,2.46,1659.5,638.8
+0400000US24,24,Maryland,1600000US2466635,2466635,"Maryland - PLACE - Riverdale Park town, Prince George's County","Riverdale Park town, Prince George's County",6956,2058,1.67,0.03,1.65,4218.4,1248.1
+0400000US24,24,Maryland,1600000US2466762,2466762,"Maryland - PLACE - Riverside CDP, Harford County","Riverside CDP, Harford County",6425,2579,2.34,0.01,2.33,2754.3,1105.6
+0400000US24,24,Maryland,1600000US2466850,2466850,"Maryland - PLACE - Riviera Beach CDP, Anne Arundel County","Riviera Beach CDP, Anne Arundel County",12677,5098,3.21,0.58,2.63,4813.7,1935.8
+0400000US24,24,Maryland,1600000US2467000,2467000,"Maryland - PLACE - Robinwood CDP, Washington County","Robinwood CDP, Washington County",6918,3044,3.86,0.00,3.86,1792.6,788.8
+0400000US24,24,Maryland,1600000US2467400,2467400,"Maryland - PLACE - Rock Hall town, Kent County","Rock Hall town, Kent County",1310,930,1.55,0.21,1.34,978.9,695.0
+0400000US24,24,Maryland,1600000US2467500,2467500,"Maryland - PLACE - Rock Point CDP, Charles County","Rock Point CDP, Charles County",107,59,0.63,0.00,0.63,170.1,93.8
+0400000US24,24,Maryland,1600000US2467675,2467675,"Maryland - PLACE - Rockville city, Montgomery County","Rockville city, Montgomery County",61209,25199,13.57,0.06,13.51,4531.7,1865.7
+0400000US24,24,Maryland,1600000US2467950,2467950,"Maryland - PLACE - Rohrersville CDP, Washington County","Rohrersville CDP, Washington County",175,69,0.35,0.00,0.35,501.6,197.8
+0400000US24,24,Maryland,1600000US2468300,2468300,"Maryland - PLACE - Rosaryville CDP, Prince George's County","Rosaryville CDP, Prince George's County",10697,3625,9.20,0.02,9.18,1164.8,394.7
+0400000US24,24,Maryland,1600000US2468400,2468400,"Maryland - PLACE - Rosedale CDP, Baltimore County","Rosedale CDP, Baltimore County",19257,7606,7.14,0.25,6.90,2792.6,1103.0
+0400000US24,24,Maryland,1600000US2468600,2468600,"Maryland - PLACE - Rosemont village, Frederick County","Rosemont village, Frederick County",294,118,0.56,0.00,0.56,528.6,212.1
+0400000US24,24,Maryland,1600000US2468700,2468700,"Maryland - PLACE - Rossville CDP, Baltimore County","Rossville CDP, Baltimore County",15147,6524,5.39,0.03,5.37,2822.2,1215.5
+0400000US24,24,Maryland,1600000US2469200,2469200,"Maryland - PLACE - Sabillasville CDP, Frederick County","Sabillasville CDP, Frederick County",354,149,1.50,0.00,1.50,236.4,99.5
+0400000US24,24,Maryland,1600000US2469425,2469425,"Maryland - PLACE - St. George Island CDP, St. Mary's County","St. George Island CDP, St. Mary's County",257,157,0.93,0.26,0.67,382.1,233.4
+0400000US24,24,Maryland,1600000US2469550,2469550,"Maryland - PLACE - St. James CDP, Washington County","St. James CDP, Washington County",2953,1084,6.04,0.00,6.04,488.6,179.3
+0400000US24,24,Maryland,1600000US2469675,2469675,"Maryland - PLACE - St. Leonard CDP, Calvert County","St. Leonard CDP, Calvert County",742,252,2.31,0.03,2.28,325.5,110.6
+0400000US24,24,Maryland,1600000US2469825,2469825,"Maryland - PLACE - St. Michaels town, Talbot County","St. Michaels town, Talbot County",1029,711,1.25,0.10,1.15,895.7,618.9
+0400000US24,24,Maryland,1600000US2469925,2469925,"Maryland - PLACE - Salisbury city, Wicomico County","Salisbury city, Wicomico County",30343,13401,13.86,0.47,13.40,2265.2,1000.4
+0400000US24,24,Maryland,1600000US2470175,2470175,"Maryland - PLACE - Sandy Hook CDP, Washington County","Sandy Hook CDP, Washington County",188,81,0.22,0.00,0.22,871.9,375.7
+0400000US24,24,Maryland,1600000US2470300,2470300,"Maryland - PLACE - San Mar CDP, Washington County","San Mar CDP, Washington County",384,144,0.45,0.00,0.45,849.7,318.6
+0400000US24,24,Maryland,1600000US2470475,2470475,"Maryland - PLACE - Savage CDP, Howard County","Savage CDP, Howard County",7054,2778,2.74,0.01,2.74,2578.1,1015.3
+0400000US24,24,Maryland,1600000US2470530,2470530,"Maryland - PLACE - Scaggsville CDP, Howard County","Scaggsville CDP, Howard County",24333,8795,10.65,0.37,10.29,2365.5,855.0
+0400000US24,24,Maryland,1600000US2470775,2470775,"Maryland - PLACE - Seabrook CDP, Prince George's County","Seabrook CDP, Prince George's County",17287,6195,3.02,0.00,3.02,5722.9,2050.9
+0400000US24,24,Maryland,1600000US2470850,2470850,"Maryland - PLACE - Seat Pleasant city, Prince George's County","Seat Pleasant city, Prince George's County",4542,1806,0.73,0.00,0.73,6224.5,2475.0
+0400000US24,24,Maryland,1600000US2470900,2470900,"Maryland - PLACE - Secretary town, Dorchester County","Secretary town, Dorchester County",535,234,0.26,0.00,0.26,2043.7,893.9
+0400000US24,24,Maryland,1600000US2471150,2471150,"Maryland - PLACE - Severn CDP, Anne Arundel County","Severn CDP, Anne Arundel County",44231,16469,17.71,0.00,17.71,2497.0,929.8
+0400000US24,24,Maryland,1600000US2471200,2471200,"Maryland - PLACE - Severna Park CDP, Anne Arundel County","Severna Park CDP, Anne Arundel County",37634,13551,19.34,2.85,16.49,2282.7,821.9
+0400000US24,24,Maryland,1600000US2471450,2471450,"Maryland - PLACE - Shady Side CDP, Anne Arundel County","Shady Side CDP, Anne Arundel County",5803,2588,8.01,1.25,6.76,858.3,382.8
+0400000US24,24,Maryland,1600000US2471460,2471460,"Maryland - PLACE - Shaft CDP, Allegany County","Shaft CDP, Allegany County",235,96,0.80,0.01,0.79,298.8,122.1
+0400000US24,24,Maryland,1600000US2471600,2471600,"Maryland - PLACE - Sharpsburg town, Washington County","Sharpsburg town, Washington County",705,325,0.23,0.00,0.23,3012.1,1388.6
+0400000US24,24,Maryland,1600000US2471650,2471650,"Maryland - PLACE - Sharptown town, Wicomico County","Sharptown town, Wicomico County",651,290,0.46,0.05,0.41,1578.2,703.0
+0400000US24,24,Maryland,1600000US2472350,2472350,"Maryland - PLACE - Silver Hill CDP, Prince George's County","Silver Hill CDP, Prince George's County",5950,2714,1.34,0.00,1.34,4440.1,2025.3
+0400000US24,24,Maryland,1600000US2472450,2472450,"Maryland - PLACE - Silver Spring CDP, Montgomery County","Silver Spring CDP, Montgomery County",71452,30522,7.95,0.03,7.92,9023.0,3854.3
+0400000US24,24,Maryland,1600000US2472887,2472887,"Maryland - PLACE - Smith Island CDP, Somerset County","Smith Island CDP, Somerset County",276,255,9.18,4.83,4.35,63.5,58.6
+0400000US24,24,Maryland,1600000US2472900,2472900,"Maryland - PLACE - Smithsburg town, Washington County","Smithsburg town, Washington County",2975,1082,1.06,0.01,1.05,2831.0,1029.6
+0400000US24,24,Maryland,1600000US2473075,2473075,"Maryland - PLACE - Snow Hill town, Worcester County","Snow Hill town, Worcester County",2103,1005,3.12,0.11,3.01,698.9,334.0
+0400000US24,24,Maryland,1600000US2473325,2473325,"Maryland - PLACE - Solomons CDP, Calvert County","Solomons CDP, Calvert County",2368,1531,2.34,0.34,1.99,1189.6,769.1
+0400000US24,24,Maryland,1600000US2473350,2473350,"Maryland - PLACE - Somerset town, Montgomery County","Somerset town, Montgomery County",1216,423,0.27,0.00,0.27,4427.1,1540.0
+0400000US24,24,Maryland,1600000US2473600,2473600,"Maryland - PLACE - South Kensington CDP, Montgomery County","South Kensington CDP, Montgomery County",8462(r44991),3211(r21557),2.12,0.04,2.08,4063.6,1542.0
+0400000US24,24,Maryland,1600000US2473650,2473650,"Maryland - PLACE - South Laurel CDP, Prince George's County","South Laurel CDP, Prince George's County",26112,10502,8.18,0.03,8.15,3204.8,1288.9
+0400000US24,24,Maryland,1600000US2474050,2474050,"Maryland - PLACE - Spencerville CDP, Montgomery County","Spencerville CDP, Montgomery County",1594,538,1.56,0.00,1.56,1023.7,345.5
+0400000US24,24,Maryland,1600000US2474282,2474282,"Maryland - PLACE - Springdale CDP, Prince George's County","Springdale CDP, Prince George's County",2994,949,0.81,0.00,0.81,3704.1,1174.1
+0400000US24,24,Maryland,1600000US2474350,2474350,"Maryland - PLACE - Spring Gap CDP, Allegany County","Spring Gap CDP, Allegany County",55,34,0.65,0.00,0.65,85.0,52.6
+0400000US24,24,Maryland,1600000US2474560,2474560,"Maryland - PLACE - Spring Ridge CDP, Frederick County","Spring Ridge CDP, Frederick County",5795,2146,2.67,0.03,2.64,2198.0,814.0
+0400000US24,24,Maryland,1600000US2475025,2475025,"Maryland - PLACE - Stevensville CDP, Queen Anne's County","Stevensville CDP, Queen Anne's County",6803,2644,6.44,0.00,6.44,1057.1,410.8
+0400000US24,24,Maryland,1600000US2475200,2475200,"Maryland - PLACE - Stockton CDP, Worcester County","Stockton CDP, Worcester County",92,59,1.71,0.00,1.70,54.1,34.7
+0400000US24,24,Maryland,1600000US2475650,2475650,"Maryland - PLACE - Sudlersville town, Queen Anne's County","Sudlersville town, Queen Anne's County",497,244,0.94,0.00,0.94,530.4,260.4
+0400000US24,24,Maryland,1600000US2475725,2475725,"Maryland - PLACE - Suitland CDP, Prince George's County","Suitland CDP, Prince George's County",25825,10805,4.25,0.00,4.25,6073.7,2541.2
+0400000US24,24,Maryland,1600000US2475810,2475810,"Maryland - PLACE - Summerfield CDP, Prince George's County","Summerfield CDP, Prince George's County",10898,5725,3.64,0.01,3.63,3002.3,1577.2
+0400000US24,24,Maryland,1600000US2476450,2476450,"Maryland - PLACE - Swanton CDP, Garrett County","Swanton CDP, Garrett County",58,34,0.38,0.00,0.38,151.3,88.7
+0400000US24,24,Maryland,1600000US2476550,2476550,"Maryland - PLACE - Sykesville town, Carroll County","Sykesville town, Carroll County",4436,1474,1.58,0.00,1.58,2815.1,935.4
+0400000US24,24,Maryland,1600000US2476650,2476650,"Maryland - PLACE - Takoma Park city, Montgomery County","Takoma Park city, Montgomery County",16715,7162,2.09,0.01,2.08,8027.5,3439.6
+0400000US24,24,Maryland,1600000US2476675,2476675,"Maryland - PLACE - Tall Timbers CDP, St. Mary's County","Tall Timbers CDP, St. Mary's County",462,257,1.52,0.15,1.38,335.6,186.7
+0400000US24,24,Maryland,1600000US2476725,2476725,"Maryland - PLACE - Taneytown city, Carroll County","Taneytown city, Carroll County",6728,2554,3.04,0.01,3.03,2217.0,841.6
+0400000US24,24,Maryland,1600000US2476925,2476925,"Maryland - PLACE - Taylors Island CDP, Dorchester County","Taylors Island CDP, Dorchester County",173,149,4.16,0.02,4.14,41.7,36.0
+0400000US24,24,Maryland,1600000US2477100,2477100,"Maryland - PLACE - Temple Hills CDP, Prince George's County","Temple Hills CDP, Prince George's County",7852,3544,1.41,0.00,1.41,5577.8,2517.5
+0400000US24,24,Maryland,1600000US2477200,2477200,Maryland - PLACE - Templeville town,Templeville town,138,43,0.08,0.00,0.08,1726.3,537.9
+0400000US24,24,Maryland,1550000US2477200011,2477200011,Maryland - PLACE - Templeville town - Caroline County (part),Caroline County (part),52,17,0.05,0.00,0.05,1000.6,327.1
+0400000US24,24,Maryland,1550000US2477200035,2477200035,Maryland - PLACE - Templeville town - Queen Anne's County (part),Queen Anne's County (part),86,26,0.03,0.00,0.03,3074.6,929.5
+0400000US24,24,Maryland,1600000US2477825,2477825,"Maryland - PLACE - Thurmont town, Frederick County","Thurmont town, Frederick County",6170,2498,3.13,0.01,3.12,1975.8,799.9
+0400000US24,24,Maryland,1600000US2477912,2477912,"Maryland - PLACE - Tilghman Island CDP, Talbot County","Tilghman Island CDP, Talbot County",784,632,2.54,0.14,2.40,327.1,263.7
+0400000US24,24,Maryland,1600000US2477925,2477925,"Maryland - PLACE - Tilghmanton CDP, Washington County","Tilghmanton CDP, Washington County",465,183,0.46,0.00,0.46,1002.4,394.5
+0400000US24,24,Maryland,1600000US2478050,2478050,"Maryland - PLACE - Timonium CDP, Baltimore County","Timonium CDP, Baltimore County",9925,4139,5.36,0.00,5.35,1853.7,773.0
+0400000US24,24,Maryland,1600000US2478120,2478120,"Maryland - PLACE - Tolchester CDP, Kent County","Tolchester CDP, Kent County",329,221,0.62,0.01,0.61,539.1,362.1
+0400000US24,24,Maryland,1600000US2478425,2478425,"Maryland - PLACE - Towson CDP, Baltimore County","Towson CDP, Baltimore County",55197(r44992),22779(r21558),14.28,0.14,14.15,3901.9,1610.2
+0400000US24,24,Maryland,1600000US2478575,2478575,"Maryland - PLACE - Trappe town, Talbot County","Trappe town, Talbot County",1077,491,2.78,0.00,2.78,388.0,176.9
+0400000US24,24,Maryland,1600000US2478650,2478650,"Maryland - PLACE - Travilah CDP, Montgomery County","Travilah CDP, Montgomery County",12159,3950,17.28,1.46,15.83,768.2,249.6
+0400000US24,24,Maryland,1600000US2478705,2478705,"Maryland - PLACE - Trego-Rohrersville Station CDP, Washington County","Trego-Rohrersville Station CDP, Washington County",172,64,0.43,0.00,0.43,403.4,150.1
+0400000US24,24,Maryland,1600000US2479225,2479225,"Maryland - PLACE - Tyaskin CDP, Wicomico County","Tyaskin CDP, Wicomico County",236,139,1.30,0.00,1.30,181.6,107.0
+0400000US24,24,Maryland,1600000US2479350,2479350,"Maryland - PLACE - Union Bridge town, Carroll County","Union Bridge town, Carroll County",975,429,1.05,0.01,1.04,938.1,412.7
+0400000US24,24,Maryland,1600000US2479675,2479675,"Maryland - PLACE - University Park town, Prince George's County","University Park town, Prince George's County",2548,919,0.50,0.00,0.50,5096.9,1838.3
+0400000US24,24,Maryland,1600000US2479875,2479875,"Maryland - PLACE - Upper Marlboro town, Prince George's County","Upper Marlboro town, Prince George's County",631,310,0.43,0.02,0.40,1563.5,768.1
+0400000US24,24,Maryland,1600000US2479900,2479900,"Maryland - PLACE - Urbana CDP, Frederick County","Urbana CDP, Frederick County",9175,2936,6.62,0.06,6.56,1398.8,447.6
+0400000US24,24,Maryland,1600000US2480075,2480075,"Maryland - PLACE - Vale Summit CDP, Allegany County","Vale Summit CDP, Allegany County",139,59,0.98,0.00,0.98,142.5,60.5
+0400000US24,24,Maryland,1600000US2480600,2480600,"Maryland - PLACE - Vienna town, Dorchester County","Vienna town, Dorchester County",271,143,0.19,0.00,0.19,1458.0,769.3
+0400000US24,24,Maryland,1600000US2481175,2481175,"Maryland - PLACE - Waldorf CDP, Charles County","Waldorf CDP, Charles County",67752,25496,36.48,0.26,36.22,1870.6,703.9
+0400000US24,24,Maryland,1600000US2481250,2481250,"Maryland - PLACE - Walker Mill CDP, Prince George's County","Walker Mill CDP, Prince George's County",11302,4564,3.16,0.00,3.16,3575.0,1443.7
+0400000US24,24,Maryland,1600000US2481275,2481275,"Maryland - PLACE - Walkersville town, Frederick County","Walkersville town, Frederick County",5800,2206,4.36,0.01,4.35,1333.2,507.1
+0400000US24,24,Maryland,1600000US2481675,2481675,"Maryland - PLACE - Washington Grove town, Montgomery County","Washington Grove town, Montgomery County",555,242,0.35,0.00,0.35,1580.4,689.1
+0400000US24,24,Maryland,1600000US2481925,2481925,"Maryland - PLACE - Waterview CDP, Wicomico County","Waterview CDP, Wicomico County",40,36,0.49,0.01,0.49,81.7,73.5
+0400000US24,24,Maryland,1600000US2482625,2482625,"Maryland - PLACE - West Denton CDP, Caroline County","West Denton CDP, Caroline County",52,29,0.30,0.00,0.30,175.6,97.9
+0400000US24,24,Maryland,1600000US2482750,2482750,"Maryland - PLACE - Westernport town, Allegany County","Westernport town, Allegany County",1888,1006,0.90,0.02,0.87,2162.8,1152.4
+0400000US24,24,Maryland,1600000US2483025,2483025,"Maryland - PLACE - West Laurel CDP, Prince George's County","West Laurel CDP, Prince George's County",4230,1509,2.38,0.10,2.28,1859.3,663.3
+0400000US24,24,Maryland,1600000US2483100,2483100,"Maryland - PLACE - Westminster city, Carroll County","Westminster city, Carroll County",18590,7684,6.64,0.01,6.63,2804.4,1159.2
+0400000US24,24,Maryland,1600000US2483225,2483225,"Maryland - PLACE - West Ocean City CDP, Worcester County","West Ocean City CDP, Worcester County",4375,2701,6.61,2.84,3.78,1158.6,715.3
+0400000US24,24,Maryland,1600000US2483290,2483290,"Maryland - PLACE - Westphalia CDP, Prince George's County","Westphalia CDP, Prince George's County",7266,2755,13.30,0.03,13.27,547.5,207.6
+0400000US24,24,Maryland,1600000US2483337,2483337,"Maryland - PLACE - West Pocomoke CDP, Somerset County","West Pocomoke CDP, Somerset County",454,251,9.62,0.21,9.41,48.3,26.7
+0400000US24,24,Maryland,1600000US2483746,2483746,"Maryland - PLACE - Whaleyville CDP, Worcester County","Whaleyville CDP, Worcester County",149,66,0.96,0.00,0.96,155.4,68.8
+0400000US24,24,Maryland,1600000US2483775,2483775,"Maryland - PLACE - Wheaton CDP, Montgomery County","Wheaton CDP, Montgomery County",48284,15396,6.94,0.04,6.90,6998.2,2231.5
+0400000US24,24,Maryland,1600000US2484225,2484225,"Maryland - PLACE - Whitehaven CDP, Wicomico County","Whitehaven CDP, Wicomico County",43,37,0.37,0.00,0.37,116.7,100.4
+0400000US24,24,Maryland,1600000US2484350,2484350,"Maryland - PLACE - White Marsh CDP, Baltimore County","White Marsh CDP, Baltimore County",9513,3794,5.33,0.02,5.31,1792.2,714.8
+0400000US24,24,Maryland,1600000US2484375,2484375,"Maryland - PLACE - White Oak CDP, Montgomery County","White Oak CDP, Montgomery County",17403,6865,3.78,0.00,3.78,4605.8,1816.9
+0400000US24,24,Maryland,1600000US2484950,2484950,"Maryland - PLACE - Willards town, Wicomico County","Willards town, Wicomico County",958,398,1.07,0.00,1.07,891.7,370.4
+0400000US24,24,Maryland,1600000US2485100,2485100,"Maryland - PLACE - Williamsport town, Washington County","Williamsport town, Washington County",2137,1080,1.04,0.00,1.04,2048.1,1035.1
+0400000US24,24,Maryland,1600000US2485175,2485175,"Maryland - PLACE - Williston CDP, Caroline County","Williston CDP, Caroline County",155,68,0.26,0.00,0.26,590.2,258.9
+0400000US24,24,Maryland,1600000US2485395,2485395,"Maryland - PLACE - Wilson-Conococheague CDP, Washington County","Wilson-Conococheague CDP, Washington County",2282,920,4.85,0.13,4.72,483.1,194.7
+0400000US24,24,Maryland,1600000US2486275,2486275,"Maryland - PLACE - Woodland CDP, Allegany County","Woodland CDP, Allegany County",113,44,0.18,0.00,0.18,621.3,241.9
+0400000US24,24,Maryland,1600000US2486475,2486475,"Maryland - PLACE - Woodlawn CDP (Baltimore County), Baltimore County","Woodlawn CDP (Baltimore County), Baltimore County",37879,15417,9.57,0.03,9.54,3971.2,1616.3
+0400000US24,24,Maryland,1600000US2486525,2486525,"Maryland - PLACE - Woodlawn CDP (Prince George's County), Prince George's County","Woodlawn CDP (Prince George's County), Prince George's County",6334,1886,1.16,0.00,1.16,5452.1,1623.4
+0400000US24,24,Maryland,1600000US2486710,2486710,"Maryland - PLACE - Woodmore CDP, Prince George's County","Woodmore CDP, Prince George's County",3936,1406,6.61,0.06,6.55,601.1,214.7
+0400000US24,24,Maryland,1600000US2486750,2486750,"Maryland - PLACE - Woodsboro town, Frederick County","Woodsboro town, Frederick County",1141,443,0.72,0.00,0.71,1601.4,621.7
+0400000US24,24,Maryland,1600000US2487000,2487000,"Maryland - PLACE - Worton CDP, Kent County","Worton CDP, Kent County",249,117,0.94,0.02,0.92,271.1,127.4
+0400000US24,24,Maryland,1600000US2487150,2487150,"Maryland - PLACE - Yarrowsburg CDP, Washington County","Yarrowsburg CDP, Washington County",133,65,0.23,0.00,0.23,585.5,286.2
+0400000US24,24,Maryland,1600000US2487275,2487275,"Maryland - PLACE - Zihlman CDP, Allegany County","Zihlman CDP, Allegany County",362,172,1.50,0.00,1.50,241.4,114.7
